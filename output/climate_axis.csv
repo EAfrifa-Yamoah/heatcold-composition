@@ -1,0 +1,387 @@
+location_id,period,z,temp,location_name,super_region_name
+6,p1,-2.6804303031555547,14.1127896571868,China,"Southeast Asia, East Asia, and Oceania"
+6,p2,-2.3095395833893884,15.59805783099,China,"Southeast Asia, East Asia, and Oceania"
+7,p1,-3.5020938653581126,9.076359273475829,Democratic People's Republic of Korea,"Southeast Asia, East Asia, and Oceania"
+7,p2,-2.9472521606916566,9.666294599059606,Democratic People's Republic of Korea,"Southeast Asia, East Asia, and Oceania"
+8,p1,-1.1879796187939873,21.900602420864,Taiwan,"Southeast Asia, East Asia, and Oceania"
+8,p2,-0.6416813577145097,22.9717329323526,Taiwan,"Southeast Asia, East Asia, and Oceania"
+10,p1,1.5493927749760137,27.744600659707,Cambodia,"Southeast Asia, East Asia, and Oceania"
+10,p2,2.257509082089528,28.4073251408854,Cambodia,"Southeast Asia, East Asia, and Oceania"
+11,p1,-1.6146953350903408,24.9900652609058,Indonesia,"Southeast Asia, East Asia, and Oceania"
+11,p2,0.24733534171515772,25.80627425932802,Indonesia,"Southeast Asia, East Asia, and Oceania"
+12,p1,-0.7214777943654691,23.5527815038612,Lao People's Democratic Republic,"Southeast Asia, East Asia, and Oceania"
+12,p2,0.09518745783549494,24.57712558131,Lao People's Democratic Republic,"Southeast Asia, East Asia, and Oceania"
+13,p1,-0.3365184641011001,25.93378523274282,Malaysia,"Southeast Asia, East Asia, and Oceania"
+13,p2,2.3538231537442185,27.0205777168058,Malaysia,"Southeast Asia, East Asia, and Oceania"
+14,p1,2.881454951922606,25.7985503959964,Maldives,"Southeast Asia, East Asia, and Oceania"
+14,p2,4.742365048137676,26.4019165283484,Maldives,"Southeast Asia, East Asia, and Oceania"
+15,p1,-0.2692764898261266,25.5162746872228,Myanmar,"Southeast Asia, East Asia, and Oceania"
+15,p2,0.29411897657702113,26.101573701900602,Myanmar,"Southeast Asia, East Asia, and Oceania"
+16,p1,0.4295976566341014,26.327185705216202,Philippines,"Southeast Asia, East Asia, and Oceania"
+16,p2,1.7759569760088092,27.0382681465058,Philippines,"Southeast Asia, East Asia, and Oceania"
+17,p1,0.46837359311508053,25.7985503959964,Sri Lanka,"Southeast Asia, East Asia, and Oceania"
+17,p2,1.0946632319694092,26.4019165283484,Sri Lanka,"Southeast Asia, East Asia, and Oceania"
+18,p1,1.3773720298270724,27.1468889443166,Thailand,"Southeast Asia, East Asia, and Oceania"
+18,p2,2.256767999208919,27.8569295986168,Thailand,"Southeast Asia, East Asia, and Oceania"
+20,p1,0.1855080149815699,24.8805688058188,Viet Nam,"Southeast Asia, East Asia, and Oceania"
+20,p2,0.7820117809607537,25.7423059624514,Viet Nam,"Southeast Asia, East Asia, and Oceania"
+22,p1,-3.807673735887985,23.5095852789002,Fiji,"Southeast Asia, East Asia, and Oceania"
+22,p2,-1.6448469479272396,24.9084968533162,Fiji,"Southeast Asia, East Asia, and Oceania"
+23,p1,4.185964094423757,26.7798522949218,Kiribati,"Southeast Asia, East Asia, and Oceania"
+23,p2,7.667867986760799,26.6531372070314,Kiribati,"Southeast Asia, East Asia, and Oceania"
+24,p1,3.0089208333711692,20.8783771510396,Marshall Islands,"Southeast Asia, East Asia, and Oceania"
+24,p2,5.652204177611071,20.4301614751778,Marshall Islands,"Southeast Asia, East Asia, and Oceania"
+25,p1,2.850509786432771,26.7836975097654,Micronesia (Federated States of),"Southeast Asia, East Asia, and Oceania"
+25,p2,6.358531808609637,27.3924743652346,Micronesia (Federated States of),"Southeast Asia, East Asia, and Oceania"
+26,p1,-5.800678052315284,20.8783771510396,Papua New Guinea,"Southeast Asia, East Asia, and Oceania"
+26,p2,-3.9173861632740605,20.4301614751778,Papua New Guinea,"Southeast Asia, East Asia, and Oceania"
+27,p1,-1.1967984570067416,25.4368861312542,Samoa,"Southeast Asia, East Asia, and Oceania"
+27,p2,0.06490185237323029,26.1388879152422,Samoa,"Southeast Asia, East Asia, and Oceania"
+28,p1,-3.6400298734923653,25.5671606226412,Solomon Islands,"Southeast Asia, East Asia, and Oceania"
+28,p2,0.30163171858798515,26.4336554460678,Solomon Islands,"Southeast Asia, East Asia, and Oceania"
+30,p1,-2.9941185124515726,24.4456895396098,Vanuatu,"Southeast Asia, East Asia, and Oceania"
+30,p2,-1.1691737883635982,25.1408713510328,Vanuatu,"Southeast Asia, East Asia, and Oceania"
+33,p1,-3.6211217077194715,7.10829472144342,Armenia,"Central Europe, Eastern Europe, and Central Asia"
+33,p2,-2.926524434987341,9.271608385251616,Armenia,"Central Europe, Eastern Europe, and Central Asia"
+34,p1,-3.704375138159078,12.4392077454032,Azerbaijan,"Central Europe, Eastern Europe, and Central Asia"
+34,p2,-2.714782476513318,14.2808942556988,Azerbaijan,"Central Europe, Eastern Europe, and Central Asia"
+35,p1,-4.223646050886232,8.85905276264622,Georgia,"Central Europe, Eastern Europe, and Central Asia"
+35,p2,-3.504406882950449,11.2247783067362,Georgia,"Central Europe, Eastern Europe, and Central Asia"
+36,p1,-3.131190212820502,5.431244041256216,Kazakhstan,"Central Europe, Eastern Europe, and Central Asia"
+36,p2,-2.6804489000656098,7.479683053465012,Kazakhstan,"Central Europe, Eastern Europe, and Central Asia"
+37,p1,-4.2640445469004,5.208798036828434,Kyrgyzstan,"Central Europe, Eastern Europe, and Central Asia"
+37,p2,-3.418835905376195,5.453512430285028,Kyrgyzstan,"Central Europe, Eastern Europe, and Central Asia"
+38,p1,-6.543134995199804,-0.7795471238085842,Mongolia,"Central Europe, Eastern Europe, and Central Asia"
+38,p2,-5.323828769655539,-0.2955544723431785,Mongolia,"Central Europe, Eastern Europe, and Central Asia"
+39,p1,-2.974534457316909,8.894980273335614,Tajikistan,"Central Europe, Eastern Europe, and Central Asia"
+39,p2,-2.164242438870284,12.1647063442782,Tajikistan,"Central Europe, Eastern Europe, and Central Asia"
+40,p1,-1.8710131744374892,15.7279159280498,Turkmenistan,"Central Europe, Eastern Europe, and Central Asia"
+40,p2,-1.337586070699939,16.9681029054702,Turkmenistan,"Central Europe, Eastern Europe, and Central Asia"
+41,p1,-2.568505103216935,13.241982152543,Uzbekistan,"Central Europe, Eastern Europe, and Central Asia"
+41,p2,-1.9065704234590972,14.2828504496862,Uzbekistan,"Central Europe, Eastern Europe, and Central Asia"
+43,p1,-4.855296265541045,12.8063992220446,Albania,"Central Europe, Eastern Europe, and Central Asia"
+43,p2,-3.921780106854137,15.12603348621544,Albania,"Central Europe, Eastern Europe, and Central Asia"
+44,p1,-4.300615992855303,9.523294243033613,Bosnia and Herzegovina,"Central Europe, Eastern Europe, and Central Asia"
+44,p2,-3.8637142565152587,11.3820530279932,Bosnia and Herzegovina,"Central Europe, Eastern Europe, and Central Asia"
+45,p1,-3.9986124598595234,10.892989000833408,Bulgaria,"Central Europe, Eastern Europe, and Central Asia"
+45,p2,-3.788314297416075,11.889062263372,Bulgaria,"Central Europe, Eastern Europe, and Central Asia"
+46,p1,-3.510699603512611,11.9154011647044,Croatia,"Central Europe, Eastern Europe, and Central Asia"
+46,p2,-3.3132376959683336,12.8555039417638,Croatia,"Central Europe, Eastern Europe, and Central Asia"
+47,p1,-4.845845777645892,8.442865531748032,Czechia,"Central Europe, Eastern Europe, and Central Asia"
+47,p2,-4.423396978196287,9.698555735379816,Czechia,"Central Europe, Eastern Europe, and Central Asia"
+48,p1,-3.229999863394261,10.846727363820404,Hungary,"Central Europe, Eastern Europe, and Central Asia"
+48,p2,-3.0301141483964895,11.8705592090012,Hungary,"Central Europe, Eastern Europe, and Central Asia"
+49,p1,-3.9910307853510267,10.958464684690004,North Macedonia,"Central Europe, Eastern Europe, and Central Asia"
+49,p2,-3.6005324100532636,11.780722471368799,North Macedonia,"Central Europe, Eastern Europe, and Central Asia"
+50,p1,-4.77491742816337,8.815602091214815,Montenegro,"Central Europe, Eastern Europe, and Central Asia"
+50,p2,-3.9677840248866048,12.4151287900888,Montenegro,"Central Europe, Eastern Europe, and Central Asia"
+51,p1,-5.088890290395123,8.530952091395433,Poland,"Central Europe, Eastern Europe, and Central Asia"
+51,p2,-4.73264589606051,9.76379864008221,Poland,"Central Europe, Eastern Europe, and Central Asia"
+52,p1,-3.860744420841291,10.176877598890611,Romania,"Central Europe, Eastern Europe, and Central Asia"
+52,p2,-3.393014779570045,11.8358116652616,Romania,"Central Europe, Eastern Europe, and Central Asia"
+53,p1,-3.6480253392814226,10.647352319998008,Serbia,"Central Europe, Eastern Europe, and Central Asia"
+53,p2,-3.414818061351738,12.1499867708418,Serbia,"Central Europe, Eastern Europe, and Central Asia"
+54,p1,-4.321090766817932,8.66743361805503,Slovakia,"Central Europe, Eastern Europe, and Central Asia"
+54,p2,-3.7535524842602337,9.971320785842808,Slovakia,"Central Europe, Eastern Europe, and Central Asia"
+55,p1,-4.353355117905896,9.751122343263823,Slovenia,"Central Europe, Eastern Europe, and Central Asia"
+55,p2,-4.069532615672302,10.7519540407156,Slovenia,"Central Europe, Eastern Europe, and Central Asia"
+57,p1,-6.920207785187496,6.733024266269024,Belarus,"Central Europe, Eastern Europe, and Central Asia"
+57,p2,-5.309587824651334,8.126885687073626,Belarus,"Central Europe, Eastern Europe, and Central Asia"
+58,p1,-6.64272497617906,5.973866150119432,Estonia,"Central Europe, Eastern Europe, and Central Asia"
+58,p2,-6.491312693559217,7.093694827959416,Estonia,"Central Europe, Eastern Europe, and Central Asia"
+59,p1,-7.536269650489133,6.952873684259018,Latvia,"Central Europe, Eastern Europe, and Central Asia"
+59,p2,-7.322854691199074,8.014825804617214,Latvia,"Central Europe, Eastern Europe, and Central Asia"
+60,p1,-6.19615607366169,7.183094428895618,Lithuania,"Central Europe, Eastern Europe, and Central Asia"
+60,p2,-6.019252236575463,8.291297773147027,Lithuania,"Central Europe, Eastern Europe, and Central Asia"
+61,p1,-3.1609102179962134,9.8962785125272,Republic of Moldova,"Central Europe, Eastern Europe, and Central Asia"
+61,p2,-2.610977211740679,11.3751639165628,Republic of Moldova,"Central Europe, Eastern Europe, and Central Asia"
+62,p1,-4.543661279888694,3.810918005133818,Russian Federation,"Central Europe, Eastern Europe, and Central Asia"
+62,p2,-3.7609959847483196,5.542901862181828,Russian Federation,"Central Europe, Eastern Europe, and Central Asia"
+63,p1,-3.9962682638437297,8.379307446226814,Ukraine,"Central Europe, Eastern Europe, and Central Asia"
+63,p2,-2.930103922227253,10.203029237139207,Ukraine,"Central Europe, Eastern Europe, and Central Asia"
+66,p1,1.7126660988712608,25.9303196031694,Brunei Darussalam,High-income
+66,p2,3.713409231296263,26.0138163265074,Brunei Darussalam,High-income
+67,p1,-3.5546029922311972,14.4008059152406,Japan,High-income
+67,p2,-2.7654812348045126,15.0329781502048,Japan,High-income
+68,p1,-3.1960877549744042,12.80144183985942,Republic of Korea,High-income
+68,p2,-2.7351050598745865,13.2582176720362,Republic of Korea,High-income
+69,p1,1.391417077292483,26.7372497558594,Singapore,High-income
+69,p2,2.8412059731778383,27.4471333821614,Singapore,High-income
+71,p1,-3.713068789017384,16.1209161955336,Australia,High-income
+71,p2,-3.1676003939744617,17.13342633769962,Australia,High-income
+72,p1,-8.572884602234087,12.6534799711992,New Zealand,High-income
+72,p2,-7.239656751165574,13.8410243184876,New Zealand,High-income
+74,p1,-10.855237128142535,4.987512207031036,Andorra,High-income
+74,p2,-9.250708699546307,5.972296142578226,Andorra,High-income
+75,p1,-4.19169080333169,8.028785007979026,Austria,High-income
+75,p2,-3.9146216701176373,9.67220927639863,Austria,High-income
+76,p1,-5.020647879563083,10.37350079539961,Belgium,High-income
+76,p2,-4.511957496780144,11.3473311339182,Belgium,High-income
+77,p1,-1.9426896750867044,18.6810977191754,Cyprus,High-income
+77,p2,-1.2191563965011527,20.34974506750382,Cyprus,High-income
+78,p1,-7.061389540088824,8.625343475510432,Denmark,High-income
+78,p2,-8.332195066909064,9.517292763980214,Denmark,High-income
+79,p1,-7.1863251504640395,4.052388788402416,Finland,High-income
+79,p2,-6.764073243899583,5.297722060811818,Finland,High-income
+80,p1,-4.784423812910978,11.3427682062292,France,High-income
+80,p2,-4.067020697281102,12.500246023481001,France,High-income
+81,p1,-4.586805724484504,9.361783342620011,Germany,High-income
+81,p2,-4.322854602106505,10.52192000664961,Germany,High-income
+82,p1,-3.9395929612438474,14.90187189002,Greece,High-income
+82,p2,-3.165006763397356,16.0926852869124,Greece,High-income
+85,p1,-2.875635404526631,19.0768952731712,Israel,High-income
+85,p2,-1.3268960458622177,20.7052856534426,Israel,High-income
+86,p1,-4.425266418594599,13.461932699766999,Italy,High-income
+86,p2,-3.9899159350673785,14.5928911698326,Italy,High-income
+87,p1,-4.867170657695913,9.102359236612632,Luxembourg,High-income
+87,p2,-4.647893157574223,10.068132207784013,Luxembourg,High-income
+88,p1,-3.842560580181745,19.1493255615238,Malta,High-income
+88,p2,-3.3648247780101546,19.661442565918,Malta,High-income
+89,p1,-5.393533595787517,10.189058397953811,Netherlands,High-income
+89,p2,-4.910001669762694,11.1434153574434,Netherlands,High-income
+90,p1,-8.728066627574675,5.0178145972762325,Norway,High-income
+90,p2,-8.848221156076473,6.037168248478622,Norway,High-income
+91,p1,-5.418424909711238,15.193892982498,Portugal,High-income
+91,p2,-5.085031270182912,15.6719787681838,Portugal,High-income
+92,p1,-3.8684245763127367,14.835314938322199,Spain,High-income
+92,p2,-3.3768121143857432,16.036820441152418,Spain,High-income
+93,p1,-8.21189388797629,6.473422791953034,Sweden,High-income
+93,p2,-8.031019432670949,7.582565892046226,Sweden,High-income
+94,p1,-5.04289079347216,8.339685925604432,Switzerland,High-income
+94,p2,-4.859795642708356,9.420817696963221,Switzerland,High-income
+95,p1,-7.576630279394028,9.637325486201213,United Kingdom,High-income
+95,p2,-6.543838732196715,10.502081777399,United Kingdom,High-income
+97,p1,-3.5747933540305774,16.559566308422202,Argentina,High-income
+97,p2,-2.8156889594328725,17.2791331016834,Argentina,High-income
+98,p1,-9.040186131013563,12.0142150174494,Chile,High-income
+98,p2,-7.7876663828092365,13.3932758201046,Chile,High-income
+99,p1,-4.6850353050652584,16.81263486901702,Uruguay,High-income
+99,p2,-4.2489750579352,17.1692906657942,Uruguay,High-income
+101,p1,-4.795325096321112,5.6977450609042295,Canada,High-income
+101,p2,-4.487101707694494,6.441721879315436,Canada,High-income
+102,p1,-2.7416389993789836,13.653428349072799,United States of America,High-income
+102,p2,-2.2410118989833054,15.061843034099,United States of America,High-income
+105,p1,0.027258431132017768,25.8813873291016,Antigua and Barbuda,Latin America and Caribbean
+105,p2,1.343382238254249,26.3158264160156,Antigua and Barbuda,Latin America and Caribbean
+106,p1,-1.0269696388786285,25.303452597978,Bahamas,Latin America and Caribbean
+106,p2,-0.0817092604733175,25.869346895233,Bahamas,Latin America and Caribbean
+107,p1,1.5614007078753944,26.1134826660156,Barbados,Latin America and Caribbean
+107,p2,3.986863531920026,26.5615051269532,Barbados,Latin America and Caribbean
+108,p1,-0.39524360800846153,25.2943333058912,Belize,Latin America and Caribbean
+108,p2,1.3278923921621812,26.128355971717422,Belize,Latin America and Caribbean
+109,p1,-0.6533207669298536,25.26475165240862,Cuba,Latin America and Caribbean
+109,p2,-0.022535803510516504,25.8143483079132,Cuba,Latin America and Caribbean
+110,p1,-2.374576220963953,25.5553029378254,Dominica,Latin America and Caribbean
+110,p2,-0.4016700412471692,26.0437327067056,Dominica,Latin America and Caribbean
+111,p1,-1.8878929469332186,23.6614033545784,Dominican Republic,Latin America and Caribbean
+111,p2,-0.21406986728991934,25.14889775303482,Dominican Republic,Latin America and Caribbean
+112,p1,-0.9288799580774231,26.1089548746746,Grenada,Latin America and Caribbean
+112,p2,1.9699010127090344,26.6963857014972,Grenada,Latin America and Caribbean
+113,p1,-0.2923103257282018,25.4825984280854,Guyana,Latin America and Caribbean
+113,p2,2.2923689682067723,26.4695063258282,Guyana,Latin America and Caribbean
+114,p1,-0.6346845945452273,24.55756031175,Haiti,Latin America and Caribbean
+114,p2,0.034006469463504406,25.495884270232,Haiti,Latin America and Caribbean
+115,p1,-0.5208180484170918,25.2379689919524,Jamaica,Latin America and Caribbean
+115,p2,2.420674829890328,26.0929231103494,Jamaica,Latin America and Caribbean
+116,p1,0.5411273355522263,26.224884033203,Saint Lucia,Latin America and Caribbean
+116,p2,3.1822589853644896,26.7677734375,Saint Lucia,Latin America and Caribbean
+117,p1,1.0799600983108018,26.0557617187502,Saint Vincent and the Grenadines,Latin America and Caribbean
+117,p2,4.3031632454341455,26.5761169433594,Saint Vincent and the Grenadines,Latin America and Caribbean
+118,p1,1.2661684475907913,26.0838771348336,Suriname,Latin America and Caribbean
+118,p2,4.070519338231328,26.67637531895862,Suriname,Latin America and Caribbean
+119,p1,-0.032143738887157956,25.82925490318922,Trinidad and Tobago,Latin America and Caribbean
+119,p2,3.6062211779777877,26.39873813280242,Trinidad and Tobago,Latin America and Caribbean
+121,p1,-3.835222694525162,14.6037402114846,Bolivia (Plurinational State of),Latin America and Caribbean
+121,p2,-2.784325289852691,16.7481889079548,Bolivia (Plurinational State of),Latin America and Caribbean
+123,p1,-4.7495873741053956,15.68849408450722,Peru,Latin America and Caribbean
+123,p2,-4.037130437994968,16.5995188326518,Peru,Latin America and Caribbean
+125,p1,-2.9052954516275573,19.9555091988028,Colombia,Latin America and Caribbean
+125,p2,-1.6105563102060043,21.2207568095688,Colombia,Latin America and Caribbean
+126,p1,-4.142890328385111,20.57319527131142,Costa Rica,Latin America and Caribbean
+126,p2,-3.584665529236411,21.333927757378,Costa Rica,Latin America and Caribbean
+127,p1,1.4526998671985614,25.3599398355006,El Salvador,Latin America and Caribbean
+127,p2,2.4208594296854344,26.0040229466502,El Salvador,Latin America and Caribbean
+128,p1,-4.51975220695096,19.6782840680032,Guatemala,Latin America and Caribbean
+128,p2,-2.58767391115526,20.58972653127642,Guatemala,Latin America and Caribbean
+129,p1,-2.4975500174089644,23.0113804829532,Honduras,Latin America and Caribbean
+129,p2,-1.3207182431176534,23.7707236568926,Honduras,Latin America and Caribbean
+130,p1,-2.3854508604489446,19.1319713293342,Mexico,Latin America and Caribbean
+130,p2,-1.7907417566922639,20.1577397901864,Mexico,Latin America and Caribbean
+131,p1,0.360662479467836,25.8622354123488,Nicaragua,Latin America and Caribbean
+131,p2,0.5000025140472596,26.226829516257,Nicaragua,Latin America and Caribbean
+132,p1,-1.0223155252381806,24.995812430182202,Panama,Latin America and Caribbean
+132,p2,0.8073882330980615,25.700942335779,Panama,Latin America and Caribbean
+133,p1,-0.9257547406623065,24.245549295780002,Venezuela (Bolivarian Republic of),Latin America and Caribbean
+133,p2,0.4927345068420365,25.2891615203048,Venezuela (Bolivarian Republic of),Latin America and Caribbean
+135,p1,-2.2130213976915214,22.7120915314694,Brazil,Latin America and Caribbean
+135,p2,-0.945667147094658,23.5492486023816,Brazil,Latin America and Caribbean
+136,p1,-1.3858587598687506,22.161941002048998,Paraguay,Latin America and Caribbean
+136,p2,-0.8235241672480855,22.8364248659718,Paraguay,Latin America and Caribbean
+139,p1,-2.210231010544414,17.149371914050402,Algeria,North Africa and Middle East
+139,p2,-1.8350572909308223,18.4246167208554,Algeria,North Africa and Middle East
+140,p1,-0.25456043861259925,25.2925415039062,Bahrain,North Africa and Middle East
+140,p2,0.4998336872575734,26.5275085449216,Bahrain,North Africa and Middle East
+141,p1,-1.25554238370984,21.372017865269,Egypt,North Africa and Middle East
+141,p2,-0.40375000283867035,23.242673847696018,Egypt,North Africa and Middle East
+142,p1,-1.7602594419113637,13.7021964582876,Iran (Islamic Republic of),North Africa and Middle East
+142,p2,-1.3061803727182535,15.9668673028818,Iran (Islamic Republic of),North Africa and Middle East
+143,p1,-0.20664778213717475,22.6642369103626,Iraq,North Africa and Middle East
+143,p2,0.105284811771784,23.681329582069,Iraq,North Africa and Middle East
+144,p1,-3.1065527308723153,17.8037243028048,Jordan,North Africa and Middle East
+144,p2,-2.0240685414095303,19.5351924712742,Jordan,North Africa and Middle East
+145,p1,-0.11613923301813703,25.4161854789802,Kuwait,North Africa and Middle East
+145,p2,0.4077468174124035,27.1101930083502,Kuwait,North Africa and Middle East
+146,p1,-4.580739785114554,15.472914940431,Lebanon,North Africa and Middle East
+146,p2,-3.202426683924599,17.16271882816482,Lebanon,North Africa and Middle East
+147,p1,-1.5394310662336235,20.3296866010966,Libya,North Africa and Middle East
+147,p2,-1.0398385289653038,21.3024669551712,Libya,North Africa and Middle East
+148,p1,-2.9036321734314567,17.217828723817,Morocco,North Africa and Middle East
+148,p2,-2.394748430368867,18.589262595756,Morocco,North Africa and Middle East
+149,p1,-2.564513704254516,18.604856504587,Palestine,North Africa and Middle East
+149,p2,-1.3572281928978494,20.4726775319118,Palestine,North Africa and Middle East
+150,p1,0.2749648556327519,26.8980764440236,Oman,North Africa and Middle East
+150,p2,0.6808913033730285,28.0419271465136,Oman,North Africa and Middle East
+151,p1,-0.2354604538700416,26.490658719703,Qatar,North Africa and Middle East
+151,p2,0.3934415753563272,27.9235363251846,Qatar,North Africa and Middle East
+152,p1,0.06551043723726425,25.5767791841266,Saudi Arabia,North Africa and Middle East
+152,p2,0.5681678104129423,27.26601545424542,Saudi Arabia,North Africa and Middle East
+153,p1,-2.0617626850952266,17.74754543253542,Syrian Arab Republic,North Africa and Middle East
+153,p2,-1.3273209277117137,19.0506692049016,Syrian Arab Republic,North Africa and Middle East
+154,p1,-1.8767419859824377,18.5057343012862,Tunisia,North Africa and Middle East
+154,p2,-1.4300550134408267,19.4450545001066,Tunisia,North Africa and Middle East
+155,p1,-3.5127818533222563,11.628457890575,Türkiye,North Africa and Middle East
+155,p2,-2.817695789869615,14.387521815765,Türkiye,North Africa and Middle East
+156,p1,-0.020181887008808654,26.8375045138862,United Arab Emirates,North Africa and Middle East
+156,p2,0.5663585428760473,28.694588562459998,United Arab Emirates,North Africa and Middle East
+157,p1,-0.7913125928143023,22.3493035882246,Yemen,North Africa and Middle East
+157,p2,-0.37389906434149384,23.90060167100042,Yemen,North Africa and Middle East
+160,p1,-2.355958968210298,10.431003297569603,Afghanistan,North Africa and Middle East
+160,p2,-1.7598423474975224,12.456766939245801,Afghanistan,North Africa and Middle East
+161,p1,-0.5948760943625019,25.0513339220318,Bangladesh,South Asia
+161,p2,-0.3236051086367729,25.5898025180118,Bangladesh,South Asia
+162,p1,-5.673542004900212,12.8608332460112,Bhutan,South Asia
+162,p2,-4.624128835815844,14.222654840987,Bhutan,South Asia
+163,p1,0.09639617715296434,25.2061455977174,India,South Asia
+163,p2,0.3033356740299325,25.7436525925064,India,South Asia
+164,p1,-1.1896763852582914,19.072765520872398,Nepal,South Asia
+164,p2,-1.073446003925683,20.8323485289424,Nepal,South Asia
+165,p1,-0.11647993185678639,22.7262065078688,Pakistan,South Asia
+165,p2,0.02760836850635729,24.0429099722262,Pakistan,South Asia
+168,p1,-1.662627162462342,21.6006414259198,Angola,Sub-Saharan Africa
+168,p2,-1.0061410499834271,22.961126358628402,Angola,Sub-Saharan Africa
+169,p1,0.8429840584519661,25.2766086767796,Central African Republic,Sub-Saharan Africa
+169,p2,1.8819191402427455,26.14680319356322,Central African Republic,Sub-Saharan Africa
+170,p1,-1.0479079421501538,24.1160348915342,Congo,Sub-Saharan Africa
+170,p2,0.3915670931834122,25.64948359693302,Congo,Sub-Saharan Africa
+171,p1,-3.39138985521038,22.8158022682978,Democratic Republic of the Congo,Sub-Saharan Africa
+171,p2,-1.30117229215898,23.7342728983038,Democratic Republic of the Congo,Sub-Saharan Africa
+173,p1,-1.8538534741953607,24.45769869969682,Gabon,Sub-Saharan Africa
+173,p2,0.13382084294795996,25.623105302443,Gabon,Sub-Saharan Africa
+175,p1,-5.622679638546237,19.5863729026408,Burundi,Sub-Saharan Africa
+175,p2,-4.647235927245963,20.6790427868844,Burundi,Sub-Saharan Africa
+176,p1,-0.6880163298856785,24.74006652832024,Comoros,Sub-Saharan Africa
+176,p2,0.25606833721585565,25.29219665527342,Comoros,Sub-Saharan Africa
+177,p1,1.4147924852370666,27.964385294896,Djibouti,Sub-Saharan Africa
+177,p2,1.7675443450937165,28.5430096197816,Djibouti,Sub-Saharan Africa
+178,p1,0.14565879766431594,23.2161618817854,Eritrea,Sub-Saharan Africa
+178,p2,0.668412086435986,24.682948231610798,Eritrea,Sub-Saharan Africa
+179,p1,-2.756817627252633,19.261593374495,Ethiopia,Sub-Saharan Africa
+179,p2,-2.315676565064293,19.952083080408,Ethiopia,Sub-Saharan Africa
+180,p1,-2.9607323413511195,19.790400756359,Kenya,Sub-Saharan Africa
+180,p2,-1.8840230837381773,21.243282998721,Kenya,Sub-Saharan Africa
+181,p1,-2.709537978108684,19.745453452146002,Madagascar,Sub-Saharan Africa
+181,p2,-2.0741071140490828,20.7446731708366,Madagascar,Sub-Saharan Africa
+182,p1,-1.834688266080182,22.0298694809576,Malawi,Sub-Saharan Africa
+182,p2,-1.4204222544556826,22.271417737792998,Malawi,Sub-Saharan Africa
+183,p1,-5.293372378800528,23.1714965820312,Mauritius,"Southeast Asia, East Asia, and Oceania"
+183,p2,-3.035483475756045,23.9288513183594,Mauritius,"Southeast Asia, East Asia, and Oceania"
+184,p1,-0.4027174570925442,23.571603865903,Mozambique,Sub-Saharan Africa
+184,p2,-0.36251656885373096,23.930630040663,Mozambique,Sub-Saharan Africa
+185,p1,-8.519994037716584,18.5043820193786,Rwanda,Sub-Saharan Africa
+185,p2,-6.446854227110962,19.7865792374422,Rwanda,Sub-Saharan Africa
+186,p1,0.963410147587581,19.745453452146002,Seychelles,"Southeast Asia, East Asia, and Oceania"
+186,p2,2.2811497489602144,20.7446731708366,Seychelles,"Southeast Asia, East Asia, and Oceania"
+187,p1,1.8304671372586705,26.384198281543,Somalia,Sub-Saharan Africa
+187,p2,1.9446149803758839,26.6804114450228,Somalia,Sub-Saharan Africa
+189,p1,-2.710002539647441,22.3187339825512,United Republic of Tanzania,Sub-Saharan Africa
+189,p2,-1.916525950360994,22.7579187643268,United Republic of Tanzania,Sub-Saharan Africa
+190,p1,-3.0159536357780152,21.69553326685542,Uganda,Sub-Saharan Africa
+190,p2,-1.6485572007579585,22.919813911901798,Uganda,Sub-Saharan Africa
+191,p1,-1.8946492835597426,21.8104467314202,Zambia,Sub-Saharan Africa
+191,p2,-1.618828115608986,21.99615332174102,Zambia,Sub-Saharan Africa
+193,p1,-1.060733366178037,21.5925605430908,Botswana,Sub-Saharan Africa
+193,p2,-0.788943017492563,22.01518936547142,Botswana,Sub-Saharan Africa
+195,p1,-1.659550289332695,21.0402848482124,Namibia,Sub-Saharan Africa
+195,p2,-0.5932842663625485,21.3728971559106,Namibia,Sub-Saharan Africa
+196,p1,-4.0541418350617455,17.2378965602572,South Africa,Sub-Saharan Africa
+196,p2,-3.3302572096316894,18.03973126610822,South Africa,Sub-Saharan Africa
+197,p1,-2.6371211339868053,19.1251638381392,Eswatini,Sub-Saharan Africa
+197,p2,-2.509090746451352,19.44265906301,Eswatini,Sub-Saharan Africa
+198,p1,-2.104652412488154,20.6568424978262,Zimbabwe,Sub-Saharan Africa
+198,p2,-1.7648755534454,20.8154027032428,Zimbabwe,Sub-Saharan Africa
+200,p1,1.9492700116399384,26.8089555366276,Benin,Sub-Saharan Africa
+200,p2,3.337100220570381,27.6224023495384,Benin,Sub-Saharan Africa
+201,p1,1.5605967466750805,28.1281701777126,Burkina Faso,Sub-Saharan Africa
+201,p2,2.541109054580061,28.9096840095196,Burkina Faso,Sub-Saharan Africa
+202,p1,0.16593661207481336,23.798330798126,Cameroon,Sub-Saharan Africa
+202,p2,0.8716148064513529,24.9229191115426,Cameroon,Sub-Saharan Africa
+203,p1,-3.685168281125638,22.06845397949202,Cabo Verde,Sub-Saharan Africa
+203,p2,-2.326735795937142,22.444561767578,Cabo Verde,Sub-Saharan Africa
+204,p1,1.0184277604606091,27.757199625304402,Chad,Sub-Saharan Africa
+204,p2,1.7315988715519868,28.4660437311814,Chad,Sub-Saharan Africa
+205,p1,0.04520094862850323,25.86486096045422,Côte d'Ivoire,Sub-Saharan Africa
+205,p2,2.178990857162141,26.591680544991398,Côte d'Ivoire,Sub-Saharan Africa
+206,p1,1.3149734898743064,27.6084802101052,Gambia,Sub-Saharan Africa
+206,p2,1.9277146021050087,27.5863041519632,Gambia,Sub-Saharan Africa
+207,p1,0.8404046666379623,26.423012549677,Ghana,Sub-Saharan Africa
+207,p2,2.9553304920659778,27.3812744570264,Ghana,Sub-Saharan Africa
+208,p1,0.8676165390131464,25.3987223130042,Guinea,Sub-Saharan Africa
+208,p2,1.719919348562901,26.2601927854854,Guinea,Sub-Saharan Africa
+209,p1,1.5764152487645833,27.4344141770974,Guinea-Bissau,Sub-Saharan Africa
+209,p2,1.8091645200121578,27.8437857031554,Guinea-Bissau,Sub-Saharan Africa
+211,p1,1.544486069201947,28.372648491549,Mali,Sub-Saharan Africa
+211,p2,2.1218262376523387,29.1917431658332,Mali,Sub-Saharan Africa
+212,p1,1.5093822967497827,27.869201877141002,Mauritania,Sub-Saharan Africa
+212,p2,1.749236054895321,27.5936538470224,Mauritania,Sub-Saharan Africa
+213,p1,0.8772447230898464,28.1819943379952,Niger,Sub-Saharan Africa
+213,p2,1.376031024929498,28.880421303759,Niger,Sub-Saharan Africa
+214,p1,0.7677987570133181,26.209031552808,Nigeria,Sub-Saharan Africa
+214,p2,1.4769198261093661,26.96567108315,Nigeria,Sub-Saharan Africa
+215,p1,-1.2972098783905004,25.3414306640626,Sao Tome and Principe,Sub-Saharan Africa
+215,p2,-0.028614940562808305,25.805096435547,Sao Tome and Principe,Sub-Saharan Africa
+216,p1,1.0982321390500425,25.73744957835042,Senegal,Sub-Saharan Africa
+216,p2,1.3419458657532828,26.305213772603,Senegal,Sub-Saharan Africa
+217,p1,0.19650549903704412,25.3973966076328,Sierra Leone,Sub-Saharan Africa
+217,p2,2.080397869992849,26.2887865820454,Sierra Leone,Sub-Saharan Africa
+218,p1,1.0351476064163259,26.4198926296734,Togo,Sub-Saharan Africa
+218,p2,3.052032111359545,27.41311139450342,Togo,Sub-Saharan Africa
+298,p1,1.9287425613595002,20.8783771510396,American Samoa,"Southeast Asia, East Asia, and Oceania"
+298,p2,3.459139131216304,20.4301614751778,American Samoa,"Southeast Asia, East Asia, and Oceania"
+305,p1,-2.9284624129816486,23.5095852789002,Bermuda,Latin America and Caribbean
+305,p2,-1.80515322933553,24.9084968533162,Bermuda,Latin America and Caribbean
+320,p1,-3.3041118772145577,20.8783771510396,Cook Islands,"Southeast Asia, East Asia, and Oceania"
+320,p2,-2.361831287610092,20.4301614751778,Cook Islands,"Southeast Asia, East Asia, and Oceania"
+367,p1,-7.356069929420648,14.3868041992188,Monaco,High-income
+367,p2,-6.3986406083596785,15.4083923339842,Monaco,High-income
+369,p1,4.237288907179558,20.8783771510396,Nauru,"Southeast Asia, East Asia, and Oceania"
+369,p2,7.674049604420716,20.4301614751778,Nauru,"Southeast Asia, East Asia, and Oceania"
+374,p1,-1.6731082392611019,20.8783771510396,Niue,"Southeast Asia, East Asia, and Oceania"
+374,p2,-0.32175470326757616,20.4301614751778,Niue,"Southeast Asia, East Asia, and Oceania"
+376,p1,2.0289699399726717,26.4988286675348,Northern Mariana Islands,"Southeast Asia, East Asia, and Oceania"
+376,p2,4.6116961440183015,27.1917589427808,Northern Mariana Islands,"Southeast Asia, East Asia, and Oceania"
+380,p1,3.198215118894438,26.869189453125,Palau,"Southeast Asia, East Asia, and Oceania"
+380,p2,6.070257687945156,27.403173828125,Palau,"Southeast Asia, East Asia, and Oceania"
+385,p1,-1.2461598187640772,25.0098487854002,Puerto Rico,Latin America and Caribbean
+385,p2,0.4854553956915107,25.3517837619124,Puerto Rico,Latin America and Caribbean
+393,p1,-0.2153979583051115,25.915532430013002,Saint Kitts and Nevis,Latin America and Caribbean
+393,p2,1.6505595784957658,26.37997843424462,Saint Kitts and Nevis,Latin America and Caribbean
+396,p1,-5.104120260679122,14.3380737304688,San Marino,High-income
+396,p2,-4.517570226305989,15.1482055664062,San Marino,High-income
+413,p1,4.8699055710475605,20.8783771510396,Tokelau,"Southeast Asia, East Asia, and Oceania"
+413,p2,6.647235270893069,20.4301614751778,Tokelau,"Southeast Asia, East Asia, and Oceania"
+416,p1,5.239023133638429,20.8783771510396,Tuvalu,"Southeast Asia, East Asia, and Oceania"
+416,p2,6.487921909177888,20.4301614751778,Tuvalu,"Southeast Asia, East Asia, and Oceania"
+435,p1,1.5809752823212135,27.2970050943998,South Sudan,Sub-Saharan Africa
+435,p2,2.8646123033063997,28.1589726808756,South Sudan,Sub-Saharan Africa
+522,p1,0.7452378157941622,28.01730400204002,Sudan,North Africa and Middle East
+522,p2,1.3375083303215376,28.819111614477,Sudan,North Africa and Middle East

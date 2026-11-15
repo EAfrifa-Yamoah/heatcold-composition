@@ -1,0 +1,15 @@
+component,points,side,cause
+heat: Cardiovascular diseases,5.017918533138043,heat,Cardiovascular diseases
+heat: Chronic respiratory diseases,1.0533500750935973,heat,Chronic respiratory diseases
+heat: Diabetes and kidney diseases,2.3327709435178687,heat,Diabetes and kidney diseases
+heat: Respiratory infections and tuberculosis,-1.7390631480732388,heat,Respiratory infections and tuberculosis
+heat: Self-harm and interpersonal violence,0.2856794776522203,heat,Self-harm and interpersonal violence
+heat: Transport injuries,0.4747801113709056,heat,Transport injuries
+heat: Unintentional injuries excluding forces of nature,-0.7948473053244776,heat,Unintentional injuries excluding forces of nature
+cold: Cardiovascular diseases,3.4901201520187644,cold,Cardiovascular diseases
+cold: Chronic respiratory diseases,0.07575524268159306,cold,Chronic respiratory diseases
+cold: Diabetes and kidney diseases,-0.5774731573691756,cold,Diabetes and kidney diseases
+cold: Respiratory infections and tuberculosis,2.027043034772776,cold,Respiratory infections and tuberculosis
+cold: Self-harm and interpersonal violence,-0.3817333552785006,cold,Self-harm and interpersonal violence
+cold: Transport injuries,-0.40432853338969776,cold,Transport injuries
+cold: Unintentional injuries excluding forces of nature,-1.2234313480703083,cold,Unintentional injuries excluding forces of nature

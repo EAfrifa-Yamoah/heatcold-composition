@@ -1,0 +1,405 @@
+From cold to heat: statistics
+Generated 2026-11-15 14:59 
+Countries: 204  years: 1990 to 2023 
+
+==== 0. Exposure to forces of nature (cause 729) inside the published heat and cold estimates ====
+Global heat attributable deaths from cause 729, 1990 to 2023: total 177,326; median year 539; five largest years: 2010 54,663 (10.9% of published heat deaths); 2004 36,757 (10.5% of published heat deaths); 1991 17,399 (6.3% of published heat deaths); 2008 16,427 (5.2% of published heat deaths); 2005 14,917 (4.1% of published heat deaths)
+Global cold attributable deaths from cause 729: negative in 34 of 34 years; total -64,496; largest in absolute value: 2008 -13,083; 2023 -8,812; 1999 -3,923
+1990: heat component 5,517 (2.2% of published), cold component -1,609; 2023: heat 5,275 (1.0%), cold -8,812
+Shock years (cause 729 at least 5% of all deaths): 27 country years in 24 countries; of the 6,936 country years, 68 have a share of at least 1%
+Country years in which the heat attributable deaths from cause 729 exceed the published heat total for all causes (deaths above 1): 9 (Honduras 1998; Nicaragua 1998; Venezuela (Bolivarian Republic of) 1999; Sri Lanka 2004; Myanmar 2008; Samoa 2009; Haiti 2010; Puerto Rico 2017; Libya 2023)
+Heat attributable fraction of cause 729 deaths (country years with at least 10 such deaths): median 1.2% (IQR 0.6 to 2.2) in 1897 non-shock country years; 3.9% (IQR 2.3 to 12.7) in 27 shock country years
+Cardiovascular deaths attributed to heat and to cold in shock years against the mean of the adjacent years (rounded source values):
+                   location year share_729 fon_heat_paf cvd_heat   adj
+                      Haiti 2010      69.0         23.6    -3474     8
+                   Honduras 1998      34.4         25.8     -641    -3
+                      Libya 2023      26.7         27.3    -1307   299
+                  Sri Lanka 2004      22.9          8.3     -888   228
+ Venezuela (Bolivarian Repu 1999      22.1         11.5    -1462    22
+                    Myanmar 2008      20.6         10.4    -3296  2514
+                  Nicaragua 1998      16.9         12.6     -159    -4
+ Iran (Islamic Republic of) 1990      11.1         12.9      902  1298
+                  Indonesia 2004      10.5         19.6      161   743
+                 Bangladesh 1991       9.9         12.3    -3345   408
+             T<U+00FC>rkiye 2023       8.9          1.9      972   819
+ Iran (Islamic Republic of) 2003       7.8         22.1     1735  1903
+                   Pakistan 2005       5.7         19.6     9156 10493
+                      Haiti 2004       5.3          2.3      -63     5
+ cvd_heat_paf adj_paf cvd_cold adj_cold
+       -14.50    0.03        8      221
+       -10.50   -0.05        1      153
+        -7.50    1.80      130      943
+        -2.00    0.54      100      262
+        -4.60    0.07      101      444
+        -1.80    1.50     2072     3418
+        -4.00   -0.10        6       45
+         0.86    1.30     8470     9030
+         0.04    0.18     3000     2803
+        -2.40    0.31     2075     3022
+         0.50    0.41    13605    15314
+         1.30    1.50    10883    10336
+         4.30    5.10    15129    11941
+        -0.29    0.02      158      179
+Of 14 shock years with cardiovascular series: heat attributable cardiovascular deaths negative in 9; cold attributable cardiovascular deaths below half of the adjacent mean in 6
+
+==== 1. Global and super region levels, 1990 and 2023 (adjusted series; published in brackets where shown) ====
+Global heat deaths: 243,218 (172,867 to 346,750) in 1990, 533,972 (378,391 to 742,047) in 2023, change +119.5% [published 248,735 and 539,247, +116.8%]
+Global cold deaths: 1,061,934 (960,747 to 1,178,986) in 1990, 1,354,424 (1,190,097 to 1,503,128) in 2023, change +27.5% [published 1,060,325 and 1,345,612, +26.9%]
+Global non-optimal temperature deaths: 1,298,271 in 1990, 1,870,916 in 2023 (+44.1%); heat + cold over parent: 1.0053 (1990), 1.0093 (2023)
+Global deaths from all causes other than cause 729: 47,889,279 to 59,954,495 (+25.2%)
+Age standardised rate per 100,000: heat 5.31 to 6.20 (+16.8%); cold 31.21 to 15.29 (-51.0%); all cause 1132.4 to 700.4 (-38.2%)
+Attributable fraction of all deaths, crude (%): heat 0.508 (0.361 to 0.724) to 0.891 (0.631 to 1.238), relative +75.4%; cold 2.217 (2.006 to 2.462) to 2.259 (1.985 to 2.507), relative +1.9%
+Attributable fraction, age standardised (%): heat 0.469 to 0.886 (relative +88.8%); cold 2.756 to 2.183 (relative -20.8%)
+Heat share of temperature attributable deaths: 18.6% to 28.3% (counts) [published 19.0% to 28.6%]; 14.5% to 28.9% (age standardised rates); cold to heat ratio 4.37 to 2.54
+Global heat share by year (adjusted): highest before 2023 in 2016 (27.9%); 1998 23.8%; 2010 26.6% [published 28.9%]; 2016 27.9%; 2019 27.6%; 2020 25.2%; 2021 24.5%; 2022 26.8%
+Linear trend of the global heat share, 1990 to 2019: 3.11 percentage points per decade (SE 0.34)
+Global heat deaths, peak years (adjusted): 2023 533,972; 2022 521,954; 2019 513,568; 2016 502,739; 2017 482,885; 2018 464,877
+
+Super regions (adjusted): heat deaths, cold deaths, heat share of counts %, crude heat and cold fractions %, age standardised rates:
+                         region year   heat    cold share share_pub h_paf c_paf
+ Central and eastern Europe, ce 1990   3666  191588   1.9       1.9 0.084 4.364
+ Central and eastern Europe, ce 2023   8599  175410   4.7       4.7 0.190 3.866
+                         Global 1990 243218 1061934  18.6      19.0 0.508 2.217
+                         Global 2023 533972 1354424  28.3      28.6 0.891 2.259
+                    High income 1990   9762  303097   3.1       3.1 0.125 3.883
+                    High income 2023  20469  317282   6.1       6.1 0.192 2.974
+    Latin America and Caribbean 1990   4670   27290  14.6      14.6 0.207 1.208
+    Latin America and Caribbean 2023  17901   47123  27.5      27.6 0.462 1.215
+   North Africa and Middle East 1990  30582   70522  30.2      34.0 1.260 2.905
+   North Africa and Middle East 2023  67917  110344  38.1      41.7 2.032 3.301
+                     South Asia 1990 119737   82282  59.3      59.3 1.078 0.741
+                     South Asia 2023 261514  184597  58.6      58.7 2.094 1.478
+ Southeast and east Asia, Ocean 1990  48213  363682  11.7      11.8 0.381 2.877
+ Southeast and east Asia, Ocean 2023  96203  483414  16.6      16.6 0.596 2.996
+             Sub-Saharan Africa 1990  26588   23472  53.1      53.1 0.366 0.323
+             Sub-Saharan Africa 2023  61368   36254  62.9      63.1 0.689 0.407
+ h_asr c_asr
+  0.91 46.77
+  1.47 26.38
+  5.31 31.21
+  6.20 15.29
+  0.85 24.89
+  0.87 11.25
+  1.43 13.76
+  2.84  7.44
+ 16.16 51.19
+ 15.48 29.21
+ 15.88 16.85
+ 18.36 14.13
+  4.27 41.23
+  3.50 16.99
+  6.83 10.62
+  7.74  8.00
+
+==== 2. Decomposition of the change in attributable deaths, 1990 to 2023 ====
+C = N * sum_a s_a m_a p_a: population size N, age structure s, age specific all cause death rate m, age specific attributable fraction p; Shapley values over the four factors
+Check: sum of age specific attributable deaths against the all age count, max absolute relative difference 1.12e-05
+Contributions as % of the 1990 count (population growth, age structure, all cause mortality, attributable fraction, net):
+                         region risk     n90     n23   pop   age   mort   paf
+ Central and eastern Europe, ce cold  191588  175410  -0.2  49.0  -36.8 -20.4
+                         Global cold 1061935 1354426  49.0  66.4  -49.8 -38.0
+                    High income cold  303097  317282  21.0  69.1  -42.9 -42.6
+    Latin America and Caribbean cold   27290   47123  57.3 106.4  -44.5 -46.5
+   North Africa and Middle East cold   70522  110343  81.7  62.0  -57.0 -30.2
+                     South Asia cold   82283  184597  86.5  76.5  -65.7  27.1
+ Southeast and east Asia, Ocean cold  363682  483414  33.6 120.7  -80.4 -41.0
+             Sub-Saharan Africa cold   23472   36254 115.0  -2.8  -40.6 -17.2
+ Central and eastern Europe, ce heat    3666    8599  -0.4  53.7  -66.5 147.7
+                         Global heat  243218  533972  64.4  38.9  -85.2 101.4
+                    High income heat    9762   20469  30.1  79.2  -64.6  65.0
+    Latin America and Caribbean heat    4670   17901  89.0  78.4  -71.6 187.5
+   North Africa and Middle East heat   30581   67918  97.1  48.9  -83.7  59.8
+                     South Asia heat  119737  261514  87.1  35.9 -109.1 104.5
+ Southeast and east Asia, Ocean heat   48213   96203  40.3  96.3 -107.4  70.3
+             Sub-Saharan Africa heat   26588   61368 151.6  -8.7 -121.4 109.3
+   net
+  -8.4
+  27.5
+   4.7
+  72.7
+  56.5
+ 124.3
+  32.9
+  54.5
+ 134.5
+ 119.5
+ 109.7
+ 283.3
+ 122.1
+ 118.4
+  99.5
+ 130.8
+
+Global age pattern: % of population aged 70+, population, % of heat and of cold deaths under 5, 15 to 49, 70+; sum of negative and of positive age specific cold deaths:
+ year pop70       popn h_u5 h_1549 h_70 c_u5 c_1549 c_70  c_neg   c_pos
+ 1990   3.8 5336096932 30.1   18.1 25.0  8.7   -1.8 66.3 -64041 1125976
+ 2023   6.7 8065827258  7.2   16.5 45.6  1.0    0.7 75.3 -23933 1378359
+
+==== 3. Country level: age standardised attributable rate = attributable fraction x all cause rate ====
+Non-positive point estimates at the period ends: heat rate 1990 3, 2023 2; cold rate 1990 0, 2023 2 (countries: Greenland; Iceland; United States Virgin Islands; Guam; Tonga; Equatorial Guinea)
+Countries with all four rates positive: 198 
+All cause age standardised rate: fell in 193 of 198 countries; median log change -0.379 (-31.5%)
+Heat: attributable fraction rose in 184; rate rose in 148; median log change fraction 0.752 (x2.12), rate 0.375 (x1.46)
+Heat: countries where the fraction rose but the rate fell: 36; countries where the fraction rose and the rate rose by less: 144
+Cold: attributable fraction fell in 165; rate fell in 189; median log change fraction -0.242 (-21.5%), rate -0.651 (-47.8%)
+Cold: share of the decline in the rate carried by falling all cause mortality, median over 189 countries with a decline: 58% (IQR 34 to 77); countries where mortality carries more than half: 123
+Global (age standardised): heat rate x1.168 = fraction x1.888 times all cause x0.618; cold rate x0.490 = fraction x0.792 times all cause x0.618
+Global: heat rate in 2023 had all cause mortality stayed at its 1990 level: 10.03 per 100,000 (observed 6.20; 1990 5.31); share of the fall in the cold rate carried by all cause mortality: 67%
+By super region (median log changes; number of countries; countries with a rising heat rate):
+                         region  n heat_rate_up heat_frac_up cold_frac_down
+ Central and eastern Europe, ce 29           26           29             28
+                    High income 34           15           23             34
+    Latin America and Caribbean 32           32           32             30
+   North Africa and Middle East 21           10           21             19
+                     South Asia  5            4            5              0
+ Southeast and east Asia, Ocean 32           26           32             26
+             Sub-Saharan Africa 45           35           42             28
+    dM  dHp    dH   dCp    dC
+ -0.40 0.75  0.37 -0.19 -0.59
+ -0.50 0.25 -0.24 -0.39 -0.88
+ -0.23 1.41  1.10 -0.55 -0.76
+ -0.43 0.40 -0.01 -0.14 -0.62
+ -0.55 1.07  0.41  0.26 -0.19
+ -0.25 0.78  0.54 -0.22 -0.64
+ -0.35 0.68  0.32 -0.11 -0.42
+
+==== 4. Heat share and log ratio across countries ====
+Countries where heat exceeds cold (age standardised rate): 59 in 1990, 80 in 2023 (of 204, period ends); by year excluding shock years: 2000 55 of 204, 2010 75 of 203, 2019 80 of 203
+Median country heat share: 11.4% (IQR 1.5 to 55.9) in 1990; 25.6% (IQR 4.5 to 82.2) in 2023
+Heat share rose between 1990 and 2023 in 191 of 203 countries with a positive total at both ends; crossed from cold dominated to heat dominated: 22; the reverse: 1
+Countries that crossed to heat dominated: Bahamas; Bangladesh; Belize; Comoros; Cuba; Dominica; Dominican Republic; Grenada; India; Indonesia; Iraq; Jamaica; Lao People's Democratic Republic; Liberia; Myanmar; Panama; Puerto Rico; Qatar; Saint Kitts and Nevis; Sao Tome and Principe; Solomon Islands; Venezuela (Bolivarian Republic of) 
+Countries that crossed to cold dominated: Pakistan 
+Share of heat deaths in 2023 occurring in heat dominated countries: 68.5%; share of all deaths (2023) in heat dominated countries: 36.0% (1990 classification: 13.2%)
+Balanced set (positive heat and cold rates in all years other than shock years): 193 countries; excluded: Greenland; Iceland; Ireland; Ecuador; United States Virgin Islands; Guam; Timor-Leste; Tonga; Equatorial Guinea; Lesotho; Liberia 
+Shock years interpolated in the balanced set: 27 
+SD of log(heat/cold) across 193 countries: 1990 3.152, 2023 3.186 (change +1.1%); min 2.608 (1994), max 3.478 (2016); IQR 1990 4.370, 2023 4.513
+Linear trend in the SD: 0.0084 per year (SE 0.0032, p = 0.013)
+Log ratio: mean 1990 -2.021, 2023 -0.827; median change +1.009 (heat to cold ratio multiplied by 2.74 in the median country), IQR of change +0.555 to +1.751; change positive in 183 of 193
+Beta: change in log ratio on 1990 log ratio: slope -0.0418 (SE 0.0233), p = 0.074, r = -0.129, n = 193
+Share of the variance of the log ratio between super regions: 40.3% (1990), 46.9% (2023); rank correlation of country log ratios 1990 vs 2023: 0.970
+
+Climate axis (five year means, 1990-94 and 2016-20, n = 193): log ratio on mean temperature, slope 0.316 per degree (R2 0.608) in 1990-94; 0.372 (R2 0.621) in 2016-20
+Mean temperature change between periods: 0.956 degrees (IQR 0.587 to 1.265); warmed in 182 of 193 countries
+Pooled model with common slope 0.343: mean change in log ratio 1.017 = movement along the cross sectional gradient 0.328 (32%) + upward shift of the gradient 0.689 (68%)
+
+Within country annual response (country intercepts and country specific linear trends, 1990 to 2020, 193 countries, 5959 observations; intervals from 2000 bootstrap resamples of countries):
+  per degree Celsius warmer year: heat fraction +49.4% (95% CI +41.6 to +58.4); cold fraction -19.2% (-22.6 to -16.2); log ratio +0.615 (+0.537 to +0.703)
+  country specific slopes: heat fraction median +0.436 log points per degree (IQR +0.240 to +0.986), positive in 185 of 193; cold fraction median -0.202 (IQR -0.678 to -0.076), negative in 189
+  linear trends over 1990 to 2020 (30 years): temperature median +1.02 degrees (IQR +0.59 to +1.43), positive in 180 of 193 countries; log heat fraction median +0.625; log cold fraction median -0.257; log ratio median +0.813
+  implied by the pooled annual response at the median warming: heat fraction +0.407 (65% of the median trend), cold fraction -0.217 (84%), log ratio +0.624 (77%)
+  country by country (own slope x own warming): median implied change in log ratio +0.648 against median observed +0.813; median implied share of the observed trend 94% (IQR 61 to 137) among 189 countries with a positive trend in the log ratio
+  across countries: Spearman correlation between the temperature trend and the trend in the log ratio -0.106; between implied and observed change in the log ratio 0.532; in log heat fraction 0.445; in log cold fraction 0.263
+
+==== 5. Causes: within cause change against change in the cause mix (all ages, 1990 and 2023) ====
+Sum of the seven cause specific attributable deaths against the all cause attributable total: largest absolute difference heat 0.00 deaths, cold 0.00 deaths
+Global (sum of 204 countries): cause share of all deaths w (%), heat and cold deaths, cause specific attributable fractions (%):
+                                    cause  w90  w23 heat90 heat23 cold90 cold23
+                  Cardiovascular diseases 27.4 31.9  72865 235925 805453 929869
+             Chronic respiratory diseases  4.7  6.9  11923  44417 168247 248149
+             Diabetes and kidney diseases  2.7  5.9  15375  81701  68099 149839
+  Respiratory infections and tuberculosis 10.2  7.3  81368  79426 205059 143796
+     Self-harm and interpersonal violence  2.4  2.3  15888  31173 -49891 -44388
+                       Transport injuries  2.7  2.4  18226  39446 -40824 -28848
+ Unintentional injuries excluding forces   3.7  3.3  27499  21653 -95465 -45152
+ ph90 ph23  pc90  pc23
+ 0.56 1.23  6.14  4.86
+ 0.53 1.07  7.45  5.98
+ 1.18 2.31  5.24  4.24
+ 1.66 1.81  4.18  3.28
+ 1.36 2.28 -4.27 -3.24
+ 1.42 2.77 -3.18 -2.03
+ 1.54 1.09 -5.36 -2.27
+Seven outcome groups as a share of all deaths: 53.9% (1990), 60.0% (2023)
+Gross and net cold: sum of positive cause components 1,246,858 (1990), 1,471,652 (2023); sum of negative (injury) components -186,181 (1990), -118,388 (2023)
+Global heat fraction (crude): 0.508% to 0.891%, change 0.383 points = within cause 0.335 (87%) + cause mix 0.048 (13%)
+Global cold fraction (crude): 2.217% to 2.259%, change +0.042 points = within cause -0.424 + cause mix +0.466
+Contribution by cause to the change in the global heat and cold fractions (hundredths of a percentage point):
+                                    cause heat_within heat_mix cold_within
+                  Cardiovascular diseases       20.13     4.02      -37.85
+             Chronic respiratory diseases        3.16     1.77       -8.58
+             Diabetes and kidney diseases        4.87     5.55       -4.28
+  Respiratory infections and tuberculosis        1.34    -5.08       -7.93
+     Self-harm and interpersonal violence        2.16    -0.28        2.45
+                       Transport injuries        3.42    -0.64        2.92
+ Unintentional injuries excluding forces        -1.60    -0.53       10.88
+ cold_mix
+    24.73
+    14.84
+    15.06
+   -10.93
+     0.57
+     0.79
+     1.54
+Countries (n = 200, excluding those with a shock year at either end): heat fraction (crude) rose in 186; within cause component positive in 189; cause mix component positive in 100; mix larger than within in absolute value in 29
+Countries: cold fraction (crude) fell in 116; within cause component negative in 175; cause mix component positive in 136; countries where the within cause component is negative but the crude fraction rose: 62
+
+Global heat share (crude rates, sum of countries): 18.65% to 28.29%; Shapley attribution of the 9.64 point change over 14 components (population 5,336,096,932 to 8,065,827,258):
+ side                                    cause points
+ heat                  Cardiovascular diseases   5.02
+ heat             Chronic respiratory diseases   1.05
+ heat             Diabetes and kidney diseases   2.33
+ heat  Respiratory infections and tuberculosis  -1.74
+ heat     Self-harm and interpersonal violence   0.29
+ heat                       Transport injuries   0.47
+ heat Unintentional injuries excluding forces   -0.79
+ cold                  Cardiovascular diseases   3.49
+ cold             Chronic respiratory diseases   0.08
+ cold             Diabetes and kidney diseases  -0.58
+ cold  Respiratory infections and tuberculosis   2.03
+ cold     Self-harm and interpersonal violence  -0.38
+ cold                       Transport injuries  -0.40
+ cold Unintentional injuries excluding forces   -1.22
+  heat components total +6.63 points; cold components total +3.01 points
+
+Cause composition of heat deaths (% of heat deaths), of gross cold deaths (% of the positive components) and heat share within cause (%):
+                                    cause year heat_cause_share
+                  Cardiovascular diseases 1990             30.0
+                  Cardiovascular diseases 2023             44.2
+             Chronic respiratory diseases 1990              4.9
+             Chronic respiratory diseases 2023              8.3
+             Diabetes and kidney diseases 1990              6.3
+             Diabetes and kidney diseases 2023             15.3
+  Respiratory infections and tuberculosis 1990             33.5
+  Respiratory infections and tuberculosis 2023             14.9
+     Self-harm and interpersonal violence 1990              6.5
+     Self-harm and interpersonal violence 2023              5.8
+                       Transport injuries 1990              7.5
+                       Transport injuries 2023              7.4
+ Unintentional injuries excluding forces  1990             11.3
+ Unintentional injuries excluding forces  2023              4.1
+ cold_cause_share heat_share_in_cause
+             64.6                 8.3
+             63.2                20.2
+             13.5                 6.6
+             16.9                15.2
+              5.5                18.4
+             10.2                35.3
+             16.4                28.4
+              9.8                35.6
+             -4.0                  NA
+             -3.0                  NA
+             -3.3                  NA
+             -2.0                  NA
+             -7.7                  NA
+             -3.1                  NA
+
+==== 6. Uncertainty of the components and of derived indicators ====
+Additivity of heat and cold to the parent risk (age standardised rate, 2023): median 1.0005, 1st to 99th percentile 0.9917 to 1.0577
+Relative width of the 95% UI of the age standardised rate, 2023: heat median 1.16 (IQR 0.53 to 2.29); cold median 0.41 (IQR 0.27 to 0.86)
+Countries whose heat interval includes zero: 45 (1990), 13 (2023); cold interval includes zero: 4 (1990), 7 (2023)
+Implied correlation between heat and cold errors from the parent interval, 2023: median 0.26 (IQR -0.07 to 0.54); share negative 32%; share outside [-1, 1] 0%; 1990 median 0.38
+Implied correlation at the global level (counts): 0.64 (1990), 0.31 (2023)
+Global heat share, approximate 95% interval: 1990 18.6% (14.3 to 23.7); 2023 28.3% (21.8 to 35.3); change 9.6 points (7.4 to 11.7) with errors shared across years; (1.8 to 17.3) with independent years
+Countries where the heat to cold ratio in 2023 exceeds that of 1990 in at least 97.5% of draws: 168 (errors shared across years), 90 (independent years); in at most 2.5%: 5, 0
+Countries classified with at least 97.5% probability: 2023 heat dominated 75, cold dominated 115, unresolved 14; 1990 heat dominated 45, cold dominated 137, unresolved 22
+Countries with positive lower bounds for heat and cold at both ends: 148 
+In this set (n = 148): SD of log ratio 2.531 (1990), 2.768 (2023); share of draws in which the 2023 SD is below the 1990 SD: 0% (errors shared across years), 4% (independent years); interval for the change in SD 0.089 to 0.341 (shared), -0.028 to 0.467 (independent)
+Beta slope in this set: 0.0519; Monte Carlo interval -0.0204 to 0.0720 (shared), -0.1005 to 0.0686 (independent years)
+
+==== 7. Years of anomalous heat attributable fraction ====
+Countries with a positive heat fraction in all years other than shock years: 195 ; log linear trend fitted to 1990 to 2019; anomaly = residual / robust SD (1.4826 x MAD)
+Years 1990 to 2019 with the most countries in positive anomaly (z > 2), with the sum over countries of heat deaths above trend:
+ year   n n_hot n_cool med_res med_res_rate excess   heat
+ 1998 192    61      3   0.309        0.322  65716 351667
+ 2010 194    15      0   0.193        0.170  75798 452090
+ 1990 194    12      1   0.100        0.064    163 240573
+ 2003 194    12      2   0.108        0.114  12193 325492
+ 1994 195    11      9   0.087        0.090   7616 270814
+ 2005 194    11      0   0.097        0.106  25473 327083
+ 1992 195     7     26  -0.078       -0.084  -3432 248353
+ 1997 193     7     11  -0.026       -0.031 -34568 251267
+2020 to 2023 against the 1990 to 2019 trend (median residual of the log heat fraction; of the log heat rate):
+ year   n med_res med_res_rate
+ 2020 195  -0.093       -0.012
+ 2021 195  -0.270       -0.085
+ 2022 195  -0.242       -0.178
+ 2023 192   0.064        0.087
+  2020: heat fraction above trend in 75 of 195 countries; heat rate above trend in 96
+  2021: heat fraction above trend in 40 of 195 countries; heat rate above trend in 71
+  2022: heat fraction above trend in 45 of 195 countries; heat rate above trend in 62
+  2023: heat fraction above trend in 108 of 192 countries; heat rate above trend in 121
+Largest country year anomalies (z > 2) by heat deaths above trend, 1990 to 2019:
+                location_name year   z heat_deaths above_trend ratio_to_trend
+                        China 2013 2.0       44183       10154           1.30
+                      Nigeria 2010 3.5       19326        5840           1.43
+                      Nigeria 1998 3.8       15489        5027           1.48
+                     Pakistan 2002 2.0       30464        4369           1.17
+                      Nigeria 2005 2.5       16463        3737           1.29
+                      Myanmar 1998 2.6        7621        3217           1.73
+                      Myanmar 2010 2.1        8145        2855           1.54
+           Russian Federation 2010 2.8        4230        2648           2.67
+                        Egypt 1998 2.5        7716        2348           1.44
+                        Sudan 1990 2.4       10054        2289           1.29
+                     Viet Nam 1998 3.1        5791        2268           1.64
+                        Japan 1994 3.5        2409        1348           2.27
+                       Brazil 1998 2.0        3268        1306           1.67
+                  Philippines 1998 2.9        2446        1255           2.05
+ Venezuela (Bolivarian Republ 2015 2.0        2471        1168           1.90
+  Russian Federation: top anomaly years 2010 (z = 2.8, x2.67), 1998 (z = 1.7, x1.79), 2007 (z = 1.3, x1.58)
+  France: top anomaly years 2003 (z = 2.3, x4.14), 2022 (z = 1.2, x2.13), 2006 (z = 1.1, x2.06)
+  Italy: top anomaly years 2003 (z = 3.5, x3.38), 1998 (z = 1.8, x1.84), 1994 (z = 1.7, x1.83)
+  Spain: top anomaly years 2003 (z = 2.3, x1.82), 2015 (z = 1.7, x1.58), 2017 (z = 1.6, x1.52)
+  Germany: top anomaly years 2003 (z = 2.1, x2.65), 1994 (z = 1.7, x2.28), 2018 (z = 1.4, x1.97)
+  India: top anomaly years 2010 (z = 1.7, x1.20), 1998 (z = 1.3, x1.16), 1995 (z = 1.2, x1.15)
+  Pakistan: top anomaly years 2002 (z = 2.0, x1.17), 1993 (z = 1.6, x1.13), 1990 (z = 1.6, x1.13)
+  Australia: top anomaly years 2019 (z = 1.5, x1.39), 1997 (z = 1.2, x1.32), 1998 (z = 0.9, x1.23)
+  United States of America: top anomaly years 2011 (z = 1.8, x1.42), 1998 (z = 1.4, x1.31), 2010 (z = 1.3, x1.29)
+  China: top anomaly years 2022 (z = 2.5, x1.37), 2013 (z = 2.0, x1.30), 1994 (z = 1.4, x1.19)
+  Japan: top anomaly years 1994 (z = 3.5, x2.27), 1990 (z = 2.4, x1.78), 2010 (z = 2.0, x1.62)
+  Brazil: top anomaly years 1998 (z = 2.0, x1.67), 1993 (z = 1.3, x1.39), 2015 (z = 1.2, x1.37)
+Within country correlation between the residual of the log heat fraction and the detrended annual mean temperature, 1990 to 2019: median 0.65 (IQR 0.39 to 0.82); positive in 187 of 195 countries; above 0.5 in 130
+
+==== 8. Sex ====
+1990: global heat share of counts male 20.8%, female 16.5%; male heat share above female in 185 of 204 countries; median male to female ratio of the age standardised rate: heat 1.70, cold 1.16; of the age standardised attributable fraction: heat 1.16, cold 0.85
+2023: global heat share of counts male 30.5%, female 25.9%; male heat share above female in 193 of 204 countries; median male to female ratio of the age standardised rate: heat 1.71, cold 1.20; of the age standardised attributable fraction: heat 1.21, cold 0.88
+2023 global counts: heat deaths male 303,485, female 231,770; cold deaths male 691,972, female 664,630
+
+==== 9. Years of life lost per attributable death (1990 and 2023, sum over countries) ====
+Global YLLs per death: heat 52.3 (1990), 32.3 (2023); cold 22.2 (1990), 17.2 (2023); heat share of temperature attributable YLLs 35.1% (1990), 42.5% (2023); YLLs heat 12,709,157 to 17,238,553, cold 23,530,416 to 23,280,027
+                         region year heat cold heat_share_yll
+ Central and eastern Europe, ce 1990 38.4 19.4            3.6
+ Central and eastern Europe, ce 2023 26.2 17.8            6.7
+                    High income 1990 23.0 15.4            4.6
+                    High income 2023 18.6 13.7            8.0
+    Latin America and Caribbean 1990 55.2 27.1           25.8
+    Latin America and Caribbean 2023 33.6 16.8           43.1
+   North Africa and Middle East 1990 46.6 30.0           40.3
+   North Africa and Middle East 2023 30.2 20.7           47.3
+                     South Asia 1990 57.0 31.6           72.4
+                     South Asia 2023 31.8 21.5           67.7
+ Southeast and east Asia, Ocean 1990 43.9 24.0           19.5
+ Southeast and east Asia, Ocean 2023 24.2 16.3           22.8
+             Sub-Saharan Africa 1990 64.7 42.1           63.5
+             Sub-Saharan Africa 2023 54.6 24.6           79.0
+
+==== 10. Concentration across countries ====
+1990: Gini of heat deaths 0.915, cold deaths 0.875, all cause deaths 0.814; five largest contributors to heat deaths 66.9% (India, China, Pakistan, Sudan, Nigeria); to cold deaths 55.3% (China, United States of America, Russian Federation, India, Germany)
+2023: Gini of heat deaths 0.900, cold deaths 0.878, all cause deaths 0.806; five largest contributors to heat deaths 61.0% (India, China, Pakistan, Sudan, Nigeria); to cold deaths 58.4% (China, India, United States of America, Russian Federation, Japan)
+Heat deaths 2023, ten largest: India 210,119; China 50,323; Pakistan 33,153; Sudan 16,679; Nigeria 16,232; Bangladesh 15,980; Egypt 14,011; Iraq 12,458; Thailand 11,580; United States of America 11,224 
+India: share of global heat deaths 35.7% (1990), 39.3% (2023); South Asia super region 49.2%, 49.0%
+Highest age standardised heat rates 2023: Sudan 83.9; Iraq 57.1; Niger 56.9; Saudi Arabia 55.9; Mauritania 55.4; United Arab Emirates 50.4; South Sudan 47.0; Oman 44.9 
+Highest age standardised cold rates 2023: Afghanistan 51.1; Lesotho 49.0; Iraq 48.7; Tajikistan 46.8; Uzbekistan 46.4; Syrian Arab Republic 45.8; Turkmenistan 41.9; Morocco 39.4 
+Median country heat share and number of heat dominated countries by super region:
+                         region  n med_share_1990 med_share_2023 heat_dom_1990
+ Central and eastern Europe, ce 29            1.5            3.6             0
+                    High income 36            0.9            1.2             2
+    Latin America and Caribbean 33           30.4           71.9            11
+   North Africa and Middle East 21           20.0           28.6             6
+                     South Asia  5           35.5           48.3             1
+ Southeast and east Asia, Ocean 34           56.7           74.1            18
+             Sub-Saharan Africa 46           38.8           72.8            21
+ heat_dom_2023
+             0
+             2
+            22
+             8
+             2
+            22
+            24
+
+==== 12. Sensitivity: published series (cause 729 included, no exclusions), 1990 and 2023 ====
+Global heat share of counts: 19.0% to 28.6% (adjusted 18.6% to 28.3%)
+Countries where heat exceeds cold: 59 to 81 (adjusted 59 to 80); crossed to heat dominated 23, reverse 1 (adjusted 22, 1)
+Median country heat share: 11.4% to 26.1% (adjusted 11.4% to 25.6%)
+Published series, 190 countries with positive rates in all years: SD of log ratio 3.170 (1990), 3.197 (2023), range over years 2.604 to 3.456 (adjusted range 2.608 to 3.478); beta slope -0.0495 (SE 0.0246); median change in log ratio +0.982
+Country heat shares, adjusted minus published: absolute difference above 1 percentage point in 3 countries (1990), 5 (2023); largest: Iran (Islamic Republic of) 1990 (-11.0); Samoa 1990 (-3.7); Philippines 1990 (-2.6); Libya 2023 (-69.5); T<U+00FC>rkiye 2023 (-8.8); Syrian Arab Republic 2023 (-7.6); Malawi 2023 (-2.1)

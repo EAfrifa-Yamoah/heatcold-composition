@@ -1,0 +1,307 @@
+"location_id","year","location_name","risk_name","rei_id","cause_name","cause_id","measure","age_group","rate_male","rate_upper_male","rate_lower_male","count_male","count_upper_male","count_lower_male","percent_male","percent_upper_male","percent_lower_male","rate_female","rate_upper_female","rate_lower_female","count_female","count_upper_female","count_lower_female","percent_female","percent_upper_female","percent_lower_female","rate_combined","rate_upper_combined","rate_lower_combined","count_combined","count_upper_combined","count_lower_combined","percent_combined","percent_upper_combined","percent_lower_combined","rate_age_std_male","rate_age_std_female","rate_age_std_combined"
+380,1990,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1991,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1992,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1993,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1994,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1995,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1996,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1997,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1998,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,1999,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2000,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2001,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2002,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2003,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2004,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2005,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2006,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2007,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2008,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2009,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2010,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2011,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2012,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2013,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2014,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2015,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2016,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2017,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2018,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2019,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2020,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2021,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2022,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,2023,"Palau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1990,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1991,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1992,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0135,-0.00913,-0.0169,-0.243,-0.164,-0.304,-3.2,-2.2,-4,-0.0174,-0.0118,-0.0218,-0.334,-0.226,-0.418,-3.2,-2.2,-4,-0.0155,-0.0105,-0.0195,-0.577,-0.39,-0.722,-3.2,-2.2,-4,-0.0137,-0.0171,-0.0153
+385,1993,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1994,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1995,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000576,-0.000378,-0.000716,-0.0106,-0.00696,-0.0132,-2.5,-1.7,-3.1,-0.000734,-0.000481,-0.000912,-0.0144,-0.00948,-0.0179,-2.5,-1.7,-3.1,-0.000658,-0.000431,-0.000817,-0.0251,-0.0164,-0.0311,-2.5,-1.7,-3.1,-0.000573,-0.000713,-0.00064
+385,1996,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0111,-0.00764,-0.0142,-0.205,-0.142,-0.263,-3.7,-2.6,-4.7,-0.0141,-0.00972,-0.018,-0.279,-0.193,-0.357,-3.7,-2.6,-4.7,-0.0126,-0.00871,-0.0162,-0.484,-0.334,-0.62,-3.7,-2.6,-4.7,-0.011,-0.0136,-0.0122
+385,1997,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1998,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1999,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00166,-0.00107,-0.00227,-0.0311,-0.0201,-0.0426,-3.7,-2.4,-4.9,-0.0021,-0.00135,-0.00287,-0.0422,-0.0272,-0.0579,-3.7,-2.4,-4.9,-0.00188,-0.00122,-0.00258,-0.0733,-0.0473,-0.101,-3.7,-2.4,-4.9,-0.00161,-0.00199,-0.00179
+385,2000,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0024,-0.00156,-0.00322,-0.0451,-0.0293,-0.0606,-3.5,-2.3,-4.7,-0.00303,-0.00197,-0.00407,-0.0611,-0.0398,-0.0822,-3.5,-2.3,-4.7,-0.00272,-0.00177,-0.00366,-0.106,-0.0691,-0.143,-3.5,-2.3,-4.7,-0.00232,-0.00286,-0.00257
+385,2001,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00132,-0.000936,-0.00165,-0.0248,-0.0176,-0.031,-2.9,-2.1,-3.6,-0.00166,-0.00118,-0.00208,-0.0336,-0.0239,-0.0421,-2.9,-2.1,-3.6,-0.0015,-0.00106,-0.00187,-0.0584,-0.0415,-0.0731,-2.9,-2.1,-3.6,-0.00127,-0.00156,-0.0014
+385,2002,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2003,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0012,-0.000913,-0.00147,-0.0224,-0.0171,-0.0274,-2.6,-2.1,-3.1,-0.00151,-0.00115,-0.00185,-0.0304,-0.0232,-0.0373,-2.6,-2.1,-3.1,-0.00136,-0.00104,-0.00166,-0.0528,-0.0403,-0.0647,-2.6,-2.1,-3.1,-0.00113,-0.00139,-0.00125
+385,2004,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000706,-0.000493,-0.000906,-0.0132,-0.0092,-0.0169,-3.1,-2.2,-3.9,-0.000886,-0.000619,-0.00114,-0.0179,-0.0125,-0.0229,-3.1,-2.2,-3.9,-0.000799,-0.000559,-0.00103,-0.031,-0.0217,-0.0398,-3.1,-2.2,-3.9,-0.000657,-0.000809,-0.000725
+385,2005,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2006,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2007,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000551,-0.000409,-0.000669,-0.0102,-0.00756,-0.0124,-2.4,-1.8,-2.9,-0.000687,-0.00051,-0.000834,-0.0138,-0.0102,-0.0167,-2.4,-1.8,-2.9,-0.000622,-0.000462,-0.000755,-0.0239,-0.0178,-0.029,-2.4,-1.8,-2.9,-0.000495,-0.000609,-0.000545
+385,2008,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2009,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2010,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2011,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000725,-0.000508,-0.00092,-0.0134,-0.00937,-0.017,-3.1,-2.2,-3.9,-0.000892,-0.000626,-0.00113,-0.0178,-0.0125,-0.0226,-3.1,-2.2,-3.9,-0.000812,-0.000569,-0.00103,-0.0311,-0.0218,-0.0395,-3.1,-2.2,-3.9,-0.00061,-0.000749,-0.00067
+385,2012,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2013,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2014,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000501,-0.000398,-0.000596,-0.00892,-0.00708,-0.0106,-2.1,-1.7,-2.4,-0.000605,-0.00048,-0.000719,-0.0117,-0.00928,-0.0139,-2.1,-1.7,-2.4,-0.000556,-0.000441,-0.00066,-0.0206,-0.0164,-0.0245,-2.1,-1.7,-2.4,-0.00039,-0.000486,-0.000433
+385,2015,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2016,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2017,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-1,-0.000888,-5.4,-17,-0.015,-92.2,-1.6,-0.00421,-2.7,-1.2,-0.00104,-6.4,-21.7,-0.0192,-118,-1.6,-0.00421,-2.7,-1.1,-0.000967,-5.9,-38.6,-0.0343,-210,-1.6,-0.00421,-2.7,-0.719,-0.901,-0.801
+385,2018,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00142,-0.00107,-0.00173,-0.0235,-0.0178,-0.0286,-2.7,-2.1,-3.2,-0.00164,-0.00124,-0.002,-0.0298,-0.0226,-0.0363,-2.7,-2.1,-3.2,-0.00153,-0.00116,-0.00187,-0.0532,-0.0403,-0.0649,-2.7,-2.1,-3.2,-0.000989,-0.00124,-0.00111
+385,2019,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2020,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00224,-0.00178,-0.00268,-0.0359,-0.0284,-0.0429,-2,-1.6,-2.3,-0.00254,-0.00201,-0.00304,-0.0448,-0.0355,-0.0534,-2,-1.6,-2.3,-0.0024,-0.0019,-0.00286,-0.0806,-0.0639,-0.0963,-2,-1.6,-2.3,-0.00148,-0.00187,-0.00166
+385,2021,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,2022,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00951,-0.00703,-0.0115,-0.151,-0.112,-0.183,-2.6,-2,-3.1,-0.0106,-0.00786,-0.0129,-0.185,-0.137,-0.224,-2.6,-2,-3.1,-0.0101,-0.00746,-0.0122,-0.336,-0.248,-0.407,-2.6,-2,-3.1,-0.00588,-0.00751,-0.00663
+385,2023,"Puerto Rico","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1990,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1991,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1992,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1993,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1994,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1995,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1996,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1997,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,1998,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0507,-0.0171,-0.0821,-0.0115,-0.00387,-0.0186,-0.574,-0.187,-0.916,-0.0748,-0.0252,-0.121,-0.0172,-0.00579,-0.0278,-0.574,-0.187,-0.916,-0.0628,-0.0212,-0.102,-0.0287,-0.00966,-0.0464,-0.574,-0.187,-0.916,-0.0549,-0.0731,-0.0635
+393,1999,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2000,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2001,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2002,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2003,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2004,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2005,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2006,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2007,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2008,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2009,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2010,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2011,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2012,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2013,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2014,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2015,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2016,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2017,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2018,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2019,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2020,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2021,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2022,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2023,"Saint Kitts and Nevis","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1990,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1991,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1992,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1993,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1994,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1995,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1996,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1997,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1998,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,1999,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2000,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2001,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00791,-0.00636,-0.0107,-0.000905,-0.000727,-0.00122,-16.7,-13.4,-21.4,-0.00907,-0.00728,-0.0122,-0.00112,-0.000902,-0.00151,-16.7,-13.4,-21.4,-0.00851,-0.00684,-0.0115,-0.00203,-0.00163,-0.00273,-16.7,-13.4,-21.4,-0.00638,-0.0072,-0.00655
+396,2002,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2003,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2004,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2005,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2006,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2007,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2008,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2009,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00677,-0.00548,-0.00896,-0.00096,-0.000777,-0.00127,-16.8,-13.6,-21.6,-0.00709,-0.00574,-0.00938,-0.00108,-0.000874,-0.00143,-16.8,-13.6,-21.6,-0.00694,-0.00561,-0.00918,-0.00204,-0.00165,-0.0027,-16.8,-13.6,-21.6,-0.00489,-0.00554,-0.00504
+396,2010,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2011,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00805,-0.00655,-0.0107,-0.00125,-0.00102,-0.00166,-16.8,-13.6,-21.6,-0.00835,-0.00679,-0.0111,-0.00138,-0.00112,-0.00183,-16.8,-13.6,-21.6,-0.0082,-0.00667,-0.0109,-0.00262,-0.00214,-0.00349,-16.8,-13.6,-21.6,-0.00616,-0.00655,-0.006
+396,2012,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0363,-0.03,-0.0474,-0.00585,-0.00484,-0.00765,-17.2,-14.1,-21.7,-0.0374,-0.031,-0.0489,-0.00639,-0.00529,-0.00835,-17.2,-14.1,-21.7,-0.0369,-0.0305,-0.0482,-0.0122,-0.0101,-0.016,-17.2,-14.1,-21.7,-0.0274,-0.0293,-0.0268
+396,2013,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0411,-0.0333,-0.0546,-0.00672,-0.00545,-0.00894,-17.6,-14.1,-22.6,-0.0423,-0.0343,-0.0562,-0.00728,-0.0059,-0.00967,-17.6,-14.1,-22.6,-0.0417,-0.0338,-0.0554,-0.014,-0.0114,-0.0186,-17.6,-14.1,-22.6,-0.0299,-0.0331,-0.0302
+396,2014,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0397,-0.0302,-0.056,-0.00653,-0.00496,-0.00921,-16.3,-12.2,-22.5,-0.0405,-0.0308,-0.0572,-0.00701,-0.00533,-0.0099,-16.3,-12.2,-22.5,-0.0401,-0.0305,-0.0566,-0.0135,-0.0103,-0.0191,-16.3,-12.2,-22.5,-0.029,-0.0314,-0.0287
+396,2015,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0153,-0.0124,-0.0204,-0.00253,-0.00205,-0.00338,-16.8,-13.4,-21.7,-0.0155,-0.0126,-0.0207,-0.0027,-0.00218,-0.00361,-16.8,-13.4,-21.7,-0.0154,-0.0125,-0.0206,-0.00522,-0.00423,-0.00699,-16.8,-13.4,-21.7,-0.011,-0.012,-0.011
+396,2016,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00597,-0.00472,-0.00812,-0.000996,-0.000787,-0.00135,-16.9,-13.3,-22.2,-0.00597,-0.00472,-0.00812,-0.00105,-0.00083,-0.00143,-16.9,-13.3,-22.2,-0.00597,-0.00472,-0.00812,-0.00205,-0.00162,-0.00278,-16.9,-13.3,-22.2,-0.00407,-0.00454,-0.00413
+396,2017,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0136,-0.011,-0.0181,-0.00228,-0.00185,-0.00303,-16.8,-13.5,-21.7,-0.0134,-0.0109,-0.0178,-0.00238,-0.00193,-0.00316,-16.8,-13.5,-21.7,-0.0135,-0.0109,-0.018,-0.00467,-0.00378,-0.0062,-16.8,-13.5,-21.7,-0.00904,-0.0102,-0.00926
+396,2018,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2019,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2020,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2021,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2022,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,2023,"San Marino","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1990,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1991,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1992,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1993,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1994,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1995,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1996,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1997,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1998,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,1999,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2000,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2001,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2002,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2003,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2004,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2005,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2006,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2007,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2008,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000954,0.0027,-0.00492,-0.0437,0.124,-0.226,-0.598,1.7,-3,-0.00136,0.00384,-0.007,-0.0578,0.164,-0.298,-0.598,1.7,-3,-0.00115,0.00325,-0.00592,-0.102,0.288,-0.524,-0.598,1.7,-3,-0.00117,-0.00144,-0.00132
+435,2009,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2010,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2011,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2012,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00233,0.00879,-0.0147,-0.118,0.443,-0.742,-0.591,2.3,-3.5,-0.00336,0.0127,-0.0212,-0.159,0.597,-1,-0.591,2.3,-3.5,-0.00283,0.0107,-0.0179,-0.276,1.04,-1.74,-0.591,2.3,-3.5,-0.0029,-0.0036,-0.00327
+435,2013,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0047,0.0141,-0.0258,-0.242,0.728,-1.33,-0.579,1.7,-3,-0.00679,0.0204,-0.0373,-0.328,0.988,-1.8,-0.579,1.7,-3,-0.00571,0.0172,-0.0314,-0.57,1.72,-3.13,-0.579,1.7,-3,-0.00587,-0.00729,-0.00661
+435,2014,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2015,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2016,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2017,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2018,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2019,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00016,0.00049,-0.000891,-0.00725,0.0223,-0.0405,-0.586,1.8,-3.1,-0.000227,0.000697,-0.00127,-0.0103,0.0315,-0.0573,-0.586,1.8,-3.1,-0.000193,0.000593,-0.00108,-0.0175,0.0538,-0.0978,-0.586,1.8,-3.1,-0.000201,-0.00025,-0.000227
+435,2020,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2021,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000233,0.000761,-0.00131,-0.0112,0.0367,-0.0631,-0.392,1.3,-2.1,-0.000337,0.0011,-0.0019,-0.0161,0.0526,-0.0905,-0.392,1.3,-2.1,-0.000285,0.000931,-0.0016,-0.0273,0.0893,-0.154,-0.392,1.3,-2.1,-0.000288,-0.000365,-0.000328
+435,2022,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,2023,"South Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,1990,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,1991,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,1992,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,1993,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000612,0.00679,-0.00789,-0.0686,0.762,-0.885,-0.686,7.2,-8.5,-0.000852,0.00945,-0.011,-0.0936,1.04,-1.21,-0.686,7.2,-8.5,-0.000731,0.00811,-0.00942,-0.162,1.8,-2.09,-0.686,7.2,-8.5,-0.000959,-0.00102,-0.000984
+522,1994,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000254,0.00233,-0.00302,-0.0292,0.267,-0.347,-0.872,7.7,-9.8,-0.000352,0.00323,-0.00419,-0.0397,0.364,-0.472,-0.872,7.7,-9.8,-0.000303,0.00277,-0.0036,-0.0689,0.631,-0.819,-0.872,7.7,-9.8,-0.000396,-0.000421,-0.000406
+522,1995,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,1996,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00396,0.0398,-0.0466,-0.478,4.8,-5.61,-0.748,7.1,-8.6,-0.00547,0.055,-0.0643,-0.646,6.5,-7.6,-0.748,7.1,-8.6,-0.00471,0.0473,-0.0554,-1.12,11.3,-13.2,-0.748,7.1,-8.6,-0.00611,-0.00648,-0.00625
+522,1997,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000204,0.00229,-0.0027,-0.0249,0.28,-0.33,-0.743,8.1,-9.7,-0.00028,0.00315,-0.00371,-0.0337,0.378,-0.446,-0.743,8.1,-9.7,-0.000242,0.00271,-0.0032,-0.0586,0.657,-0.776,-0.743,8.1,-9.7,-0.000312,-0.000331,-0.000319
+522,1998,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00237,0.0265,-0.0309,-0.295,3.29,-3.85,-0.681,7.4,-8.7,-0.00325,0.0363,-0.0424,-0.397,4.43,-5.18,-0.681,7.4,-8.7,-0.00281,0.0313,-0.0366,-0.692,7.73,-9.03,-0.681,7.4,-8.7,-0.0036,-0.00381,-0.00368
+522,1999,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000845,0.00609,-0.00753,-0.108,0.777,-0.96,-0.671,4.5,-5.9,-0.00116,0.00834,-0.0103,-0.145,1.04,-1.29,-0.671,4.5,-5.9,-0.001,0.00721,-0.00891,-0.252,1.82,-2.25,-0.671,4.5,-5.9,-0.00128,-0.00135,-0.00131
+522,2000,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,2001,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-6.55e-05,0.000625,-0.000754,-0.00866,0.0826,-0.0997,-0.684,6.3,-7.7,-8.95e-05,0.000853,-0.00103,-0.0116,0.111,-0.134,-0.684,6.3,-7.7,-7.74e-05,0.000738,-0.000891,-0.0203,0.193,-0.233,-0.684,6.3,-7.7,-9.82e-05,-0.000104,-1e-04
+522,2002,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000673,0.00773,-0.00894,-0.0906,1.04,-1.2,-0.651,7.2,-8.5,-0.000919,0.0106,-0.0122,-0.121,1.39,-1.61,-0.651,7.2,-8.5,-0.000795,0.00913,-0.0106,-0.212,2.43,-2.81,-0.651,7.2,-8.5,-0.001,-0.00106,-0.00102
+522,2003,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000358,0.00331,-0.00405,-0.0489,0.452,-0.554,-0.579,5.2,-6.5,-0.000488,0.00451,-0.00553,-0.0655,0.606,-0.742,-0.579,5.2,-6.5,-0.000422,0.0039,-0.00478,-0.114,1.06,-1.3,-0.579,5.2,-6.5,-0.000531,-0.000561,-0.000542
+522,2004,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,2005,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-9.07e-05,0.000734,-0.000917,-0.0127,0.102,-0.128,-0.599,4.7,-6,-0.000124,0.000999,-0.00125,-0.017,0.137,-0.172,-0.599,4.7,-6,-0.000107,0.000865,-0.00108,-0.0297,0.24,-0.3,-0.599,4.7,-6,-0.000133,-0.00014,-0.000136
+522,2006,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000522,0.00528,-0.00632,-0.0739,0.748,-0.896,-0.65,6.4,-7.7,-0.000711,0.0072,-0.00862,-0.0994,1.01,-1.2,-0.65,6.4,-7.7,-0.000616,0.00623,-0.00746,-0.173,1.75,-2.1,-0.65,6.4,-7.7,-0.000759,-0.000802,-0.000776
+522,2007,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00322,0.0326,-0.0384,-0.465,4.71,-5.55,-0.738,7.3,-8.6,-0.00441,0.0446,-0.0526,-0.627,6.34,-7.48,-0.738,7.3,-8.6,-0.00381,0.0385,-0.0455,-1.09,11,-13,-0.738,7.3,-8.6,-0.00467,-0.00493,-0.00477
+522,2008,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,2009,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000295,0.00263,-0.00317,-0.0445,0.397,-0.477,-0.53,4.6,-5.6,-0.000407,0.00363,-0.00436,-0.0603,0.538,-0.647,-0.53,4.6,-5.6,-0.00035,0.00313,-0.00376,-0.105,0.935,-1.12,-0.53,4.6,-5.6,-0.000425,-0.000451,-0.000435
+522,2010,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00053,0.00393,-0.0048,-0.0814,0.604,-0.738,-0.539,3.8,-4.8,-0.000733,0.00543,-0.00664,-0.111,0.82,-1,-0.539,3.8,-4.8,-0.00063,0.00467,-0.00571,-0.192,1.42,-1.74,-0.539,3.8,-4.8,-0.000761,-0.000809,-0.000781
+522,2011,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000407,0.00382,-0.00445,-0.0636,0.597,-0.696,-0.761,6.8,-8.2,-0.000565,0.0053,-0.00618,-0.0869,0.814,-0.95,-0.761,6.8,-8.2,-0.000485,0.00455,-0.00531,-0.15,1.41,-1.65,-0.761,6.8,-8.2,-0.000584,-0.000622,-6e-04
+522,2012,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000663,0.00608,-0.00714,-0.105,0.964,-1.13,-0.72,6.3,-7.6,-0.000924,0.00847,-0.00994,-0.144,1.32,-1.55,-0.72,6.3,-7.6,-0.000792,0.00727,-0.00853,-0.249,2.28,-2.68,-0.72,6.3,-7.6,-0.000949,-0.00101,-0.000977
+522,2013,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00113,0.00954,-0.0116,-0.181,1.53,-1.86,-0.572,4.7,-5.8,-0.00157,0.0133,-0.0162,-0.249,2.1,-2.56,-0.572,4.7,-5.8,-0.00135,0.0114,-0.0139,-0.429,3.63,-4.42,-0.572,4.7,-5.8,-0.00161,-0.00172,-0.00166
+522,2014,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000685,0.00562,-0.0067,-0.112,0.914,-1.09,-0.687,5.3,-6.6,-0.000959,0.00786,-0.00937,-0.154,1.26,-1.5,-0.687,5.3,-6.6,-0.000821,0.00673,-0.00803,-0.265,2.17,-2.59,-0.687,5.3,-6.6,-0.000974,-0.00104,-0.00101
+522,2015,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.000346,0.00328,-0.00387,-0.0572,0.543,-0.64,-0.69,6.3,-7.5,-0.000485,0.0046,-0.00543,-0.079,0.75,-0.885,-0.69,6.3,-7.5,-0.000415,0.00394,-0.00464,-0.136,1.29,-1.52,-0.69,6.3,-7.5,-0.000491,-0.000527,-0.000507
+522,2016,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00279,0.0245,-0.0291,-0.47,4.13,-4.9,-0.664,5.6,-6.8,-0.00393,0.0345,-0.041,-0.652,5.72,-6.79,-0.664,5.6,-6.8,-0.00336,0.0295,-0.035,-1.12,9.85,-11.7,-0.664,5.6,-6.8,-0.00396,-0.00426,-0.00409
+522,2017,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00035,0.00243,-0.00296,-0.06,0.418,-0.507,-0.58,3.8,-4.9,-0.000496,0.00345,-0.00419,-0.0836,0.581,-0.706,-0.58,3.8,-4.9,-0.000422,0.00294,-0.00357,-0.144,0.999,-1.21,-0.58,3.8,-4.9,-0.000495,-0.000536,-0.000514
+522,2018,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00073,0.00607,-0.00719,-0.128,1.07,-1.26,-0.675,5.4,-6.6,-0.00104,0.00865,-0.0102,-0.179,1.49,-1.76,-0.675,5.4,-6.6,-0.000883,0.00735,-0.0087,-0.307,2.56,-3.03,-0.675,5.4,-6.6,-0.00103,-0.00112,-0.00107
+522,2019,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00115,0.00874,-0.0104,-0.207,1.57,-1.87,-0.645,4.6,-5.9,-0.00165,0.0125,-0.0149,-0.291,2.21,-2.63,-0.645,4.6,-5.9,-0.0014,0.0106,-0.0126,-0.498,3.78,-4.5,-0.645,4.6,-5.9,-0.00164,-0.00178,-0.0017
+522,2020,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00257,0.0242,-0.0282,-0.47,4.42,-5.15,-0.741,6.7,-8,-0.00372,0.0349,-0.0407,-0.664,6.24,-7.27,-0.741,6.7,-8,-0.00314,0.0295,-0.0344,-1.13,10.7,-12.4,-0.741,6.7,-8,-0.00365,-0.00401,-0.00381
+522,2021,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00071,0.00578,-0.00683,-0.131,1.07,-1.26,-0.619,4.8,-6,-0.00104,0.00844,-0.00996,-0.187,1.53,-1.8,-0.619,4.8,-6,-0.000871,0.0071,-0.00838,-0.319,2.59,-3.06,-0.619,4.8,-6,-0.000995,-0.00111,-0.00105
+522,2022,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00251,0.0237,-0.0277,-0.47,4.43,-5.18,-0.793,7.1,-8.6,-0.00368,0.0347,-0.0406,-0.674,6.35,-7.44,-0.793,7.1,-8.6,-0.00309,0.0291,-0.0341,-1.14,10.8,-12.6,-0.793,7.1,-8.6,-0.0035,-0.00396,-0.00371
+522,2023,"Sudan","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1990,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1991,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1992,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1993,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1994,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1995,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1996,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1997,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1998,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,1999,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2000,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2001,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2002,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2003,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2004,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2005,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2006,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2007,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2008,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2009,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2010,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2011,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2012,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2013,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2014,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2015,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2016,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2017,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2018,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2019,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2020,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2021,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2022,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,2023,"Tokelau","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1990,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1991,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1992,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1993,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1994,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1995,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1996,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1997,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1998,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,1999,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2000,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2001,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2002,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2003,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2004,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2005,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2006,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2007,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2008,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2009,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2010,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2011,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2012,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2013,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2014,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2015,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2016,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2017,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2018,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2019,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2020,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2021,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2022,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,2023,"Tuvalu","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1990,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1991,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1992,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1993,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1994,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1995,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0311,-0.00222,-0.065,-0.0164,-0.00117,-0.0343,-0.587,-0.0423,-1.2,-0.0437,-0.00312,-0.0912,-0.0247,-0.00176,-0.0516,-0.587,-0.0423,-1.2,-0.0376,-0.00268,-0.0785,-0.0411,-0.00294,-0.0859,-0.587,-0.0423,-1.2,-0.0478,-0.0608,-0.0533
+422,1996,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1997,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1998,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,1999,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0239,-0.00515,-0.0432,-0.0128,-0.00275,-0.0231,-1.1,-0.235,-1.8,-0.0327,-0.00706,-0.0593,-0.019,-0.0041,-0.0345,-1.1,-0.235,-1.8,-0.0285,-0.00614,-0.0516,-0.0318,-0.00685,-0.0576,-1.1,-0.235,-1.8,-0.0344,-0.0426,-0.0379
+422,2000,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2001,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2002,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2003,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2004,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2005,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2006,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00441,-0.000226,-0.00805,-0.00237,-0.000122,-0.00433,-0.591,-0.0306,-1,-0.006,-0.000307,-0.011,-0.00353,-0.000181,-0.00645,-0.591,-0.0306,-1,-0.00524,-0.000269,-0.00957,-0.0059,-0.000303,-0.0108,-0.591,-0.0306,-1,-0.00505,-0.00626,-0.0056
+422,2007,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2008,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2009,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2010,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.00196,-9.17e-05,-0.00385,-0.00103,-4.82e-05,-0.00202,-0.253,-0.012,-0.473,-0.00262,-0.000123,-0.00516,-0.0015,-7e-05,-0.00294,-0.253,-0.012,-0.473,-0.00231,-0.000108,-0.00453,-0.00253,-0.000118,-0.00496,-0.253,-0.012,-0.473,-0.00196,-0.00249,-0.0022
+422,2011,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2012,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2013,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2014,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2015,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2016,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2017,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",-0.0405,-0.00651,-0.07,-0.0188,-0.00302,-0.0324,-0.629,-0.103,-1.1,-0.0511,-0.0082,-0.0882,-0.0252,-0.00405,-0.0435,-0.629,-0.103,-1.1,-0.046,-0.00738,-0.0793,-0.044,-0.00706,-0.076,-0.629,-0.103,-1.1,-0.032,-0.0416,-0.0365
+422,2018,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2019,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2020,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2021,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2022,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,2023,"United States Virgin Islands","Low temperature",338,"Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

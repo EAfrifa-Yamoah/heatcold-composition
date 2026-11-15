@@ -1,0 +1,205 @@
+location_id,location_name,y0,y1
+43,Albania,1990,2023
+33,Armenia,1990,2023
+34,Azerbaijan,1990,2023
+57,Belarus,1990,2023
+44,Bosnia and Herzegovina,1990,2023
+45,Bulgaria,1990,2023
+46,Croatia,1990,2023
+47,Czechia,1990,2023
+58,Estonia,1990,2023
+35,Georgia,1990,2023
+48,Hungary,1990,2023
+36,Kazakhstan,1990,2023
+37,Kyrgyzstan,1990,2023
+59,Latvia,1990,2023
+60,Lithuania,1990,2023
+38,Mongolia,1990,2023
+50,Montenegro,1990,2023
+49,North Macedonia,1990,2023
+51,Poland,1990,2023
+61,Republic of Moldova,1990,2023
+52,Romania,1990,2023
+62,Russian Federation,1990,2023
+53,Serbia,1990,2023
+54,Slovakia,1990,2023
+55,Slovenia,1990,2023
+39,Tajikistan,1990,2023
+40,Turkmenistan,1990,2023
+63,Ukraine,1990,2023
+41,Uzbekistan,1990,2023
+74,Andorra,1990,2023
+97,Argentina,1990,2023
+71,Australia,1990,2023
+75,Austria,1990,2023
+76,Belgium,1990,2023
+66,Brunei Darussalam,1990,2023
+101,Canada,1990,2023
+98,Chile,1990,2023
+77,Cyprus,1990,2023
+78,Denmark,1990,2023
+79,Finland,1990,2023
+80,France,1990,2023
+81,Germany,1990,2023
+82,Greece,1990,2023
+349,Greenland,1990,2023
+83,Iceland,1990,2023
+84,Ireland,1990,2023
+85,Israel,1990,2023
+86,Italy,1990,2023
+67,Japan,1990,2023
+87,Luxembourg,1990,2023
+88,Malta,1990,2023
+367,Monaco,1990,2023
+89,Netherlands,1990,2023
+72,New Zealand,1990,2023
+90,Norway,1990,2023
+91,Portugal,1990,2023
+68,Republic of Korea,1990,2023
+396,San Marino,1990,2023
+69,Singapore,1990,2023
+92,Spain,1990,2023
+93,Sweden,1990,2023
+94,Switzerland,1990,2023
+95,United Kingdom,1990,2023
+102,United States of America,1990,2023
+99,Uruguay,1990,2023
+105,Antigua and Barbuda,1990,2023
+106,Bahamas,1990,2023
+107,Barbados,1990,2023
+108,Belize,1990,2023
+305,Bermuda,1990,2023
+121,Bolivia (Plurinational State of),1990,2023
+135,Brazil,1990,2023
+125,Colombia,1990,2023
+126,Costa Rica,1990,2023
+109,Cuba,1990,2023
+110,Dominica,1990,2023
+111,Dominican Republic,1990,2023
+122,Ecuador,1990,2023
+127,El Salvador,1990,2023
+112,Grenada,1990,2023
+128,Guatemala,1990,2023
+113,Guyana,1990,2023
+114,Haiti,1990,2023
+129,Honduras,1990,2023
+115,Jamaica,1990,2023
+130,Mexico,1990,2023
+131,Nicaragua,1990,2023
+132,Panama,1990,2023
+136,Paraguay,1990,2023
+123,Peru,1990,2023
+385,Puerto Rico,1990,2023
+393,Saint Kitts and Nevis,1990,2023
+116,Saint Lucia,1990,2023
+117,Saint Vincent and the Grenadines,1990,2023
+118,Suriname,1990,2023
+119,Trinidad and Tobago,1990,2023
+422,United States Virgin Islands,1990,2023
+133,Venezuela (Bolivarian Republic of),1990,2023
+160,Afghanistan,1990,2023
+139,Algeria,1990,2023
+140,Bahrain,1990,2023
+141,Egypt,1990,2023
+142,Iran (Islamic Republic of),1991,2023
+143,Iraq,1990,2023
+144,Jordan,1990,2023
+145,Kuwait,1990,2023
+146,Lebanon,1990,2023
+147,Libya,1990,2022
+148,Morocco,1990,2023
+150,Oman,1990,2023
+149,Palestine,1990,2023
+151,Qatar,1990,2023
+152,Saudi Arabia,1990,2023
+522,Sudan,1990,2023
+153,Syrian Arab Republic,1990,2022
+154,Tunisia,1990,2023
+155,Türkiye,1990,2022
+156,United Arab Emirates,1990,2023
+157,Yemen,1990,2023
+161,Bangladesh,1990,2023
+162,Bhutan,1990,2023
+163,India,1990,2023
+164,Nepal,1990,2023
+165,Pakistan,1990,2023
+298,American Samoa,1990,2023
+10,Cambodia,1990,2023
+6,China,1990,2023
+320,Cook Islands,1990,2023
+7,Democratic People's Republic of Korea,1990,2023
+22,Fiji,1990,2023
+351,Guam,1990,2023
+11,Indonesia,1990,2023
+23,Kiribati,1990,2023
+12,Lao People's Democratic Republic,1990,2023
+13,Malaysia,1990,2023
+14,Maldives,1990,2023
+24,Marshall Islands,1990,2023
+183,Mauritius,1990,2023
+25,Micronesia (Federated States of),1990,2023
+15,Myanmar,1990,2023
+369,Nauru,1990,2023
+374,Niue,1990,2023
+376,Northern Mariana Islands,1990,2023
+380,Palau,1990,2023
+26,Papua New Guinea,1990,2023
+16,Philippines,1990,2023
+27,Samoa,1990,2023
+186,Seychelles,1990,2023
+28,Solomon Islands,1990,2023
+17,Sri Lanka,1990,2023
+8,Taiwan,1990,2023
+18,Thailand,1990,2023
+19,Timor-Leste,1990,2023
+413,Tokelau,1990,2023
+29,Tonga,1990,2023
+416,Tuvalu,1990,2023
+30,Vanuatu,1990,2023
+20,Viet Nam,1990,2023
+168,Angola,1990,2023
+200,Benin,1990,2023
+193,Botswana,1990,2023
+201,Burkina Faso,1990,2023
+175,Burundi,1990,2023
+203,Cabo Verde,1990,2023
+202,Cameroon,1990,2023
+169,Central African Republic,1990,2023
+204,Chad,1990,2023
+176,Comoros,1990,2023
+170,Congo,1990,2023
+205,Côte d'Ivoire,1990,2023
+171,Democratic Republic of the Congo,1990,2023
+177,Djibouti,1990,2023
+172,Equatorial Guinea,1990,2023
+178,Eritrea,1990,2023
+197,Eswatini,1990,2023
+179,Ethiopia,1990,2023
+173,Gabon,1990,2023
+206,Gambia,1990,2023
+207,Ghana,1990,2023
+208,Guinea,1990,2023
+209,Guinea-Bissau,1990,2023
+180,Kenya,1990,2023
+194,Lesotho,1990,2023
+210,Liberia,1990,2023
+181,Madagascar,1990,2023
+182,Malawi,1990,2023
+211,Mali,1990,2023
+212,Mauritania,1990,2023
+184,Mozambique,1990,2023
+195,Namibia,1990,2023
+213,Niger,1990,2023
+214,Nigeria,1990,2023
+185,Rwanda,1990,2023
+215,Sao Tome and Principe,1990,2023
+216,Senegal,1990,2023
+217,Sierra Leone,1990,2023
+187,Somalia,1990,2023
+196,South Africa,1990,2023
+435,South Sudan,1990,2023
+218,Togo,1990,2023
+190,Uganda,1990,2023
+189,United Republic of Tanzania,1990,2023
+191,Zambia,1990,2023
+198,Zimbabwe,1990,2023

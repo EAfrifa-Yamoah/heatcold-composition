@@ -1,0 +1,84 @@
+series rows: 20808  causes rows: 2856  agg rows: 272  byage rows: 400  temperature rows: 6936 
+share of countries whose temperature equals the previous year, by year (last 6):
+  year share_same
+1 2018          0
+2 2019          0
+3 2020          0
+4 2021          1
+5 2022          1
+6 2023          1
+
+sum over 204 countries vs published Global (deaths), relative difference:
+  year      heat_rel      cold_rel       all_rel
+1 1990 -0.0003149885 -0.0011850548 -0.0009503672
+2 2023 -0.0004387246 -0.0008572883 -0.0009052197
+
+cause 729: sum over 204 countries vs Global, range of relative differences over 34 years: heat -0.034 to -1.4e-05 ; cold -0.0044 to 0.00093 ; deaths -0.032 to -0.00011 
+cause 729 by age: sum over ages vs all ages, max absolute relative difference: heat 0.00077 ; cold 0.0034 ; deaths 0.0023 
+
+shock years (cause 729 at least 5 % of all deaths): 27 country years in 24 countries
+ location_id                      location_name year d729_n d729_share
+         114                              Haiti 2010 222628       69.0
+         129                           Honduras 1998  14599       34.4
+         147                              Libya 2023  13199       26.7
+          17                          Sri Lanka 2004  35408       22.9
+         133 Venezuela (Bolivarian Republic of) 1999  30340       22.1
+          15                            Myanmar 2008 138358       20.6
+         131                          Nicaragua 1998   4064       16.9
+         320                       Cook Islands 1997     19       13.3
+          27                              Samoa 2009    148       11.8
+         142         Iran (Islamic Republic of) 1990  40040       11.1
+         106                            Bahamas 2019    356       10.8
+          11                          Indonesia 2004 166011       10.5
+         161                         Bangladesh 1991 139244        9.9
+         110                           Dominica 2017     64        9.7
+         298                     American Samoa 2009     34        9.3
+         155                     T<U+00FC>rkiye 2023  53054        8.9
+         142         Iran (Islamic Republic of) 2003  26815        7.8
+          14                           Maldives 2004    102        7.2
+         385                        Puerto Rico 2017   2276        7.0
+         105                Antigua and Barbuda 1997     32        6.6
+         153               Syrian Arab Republic 2023   5900        6.3
+         165                           Pakistan 2005  74052        5.7
+          25   Micronesia (Federated States of) 2002     47        5.6
+         110                           Dominica 2015     36        5.5
+          26                   Papua New Guinea 1998   2182        5.4
+         164                              Nepal 2015   9033        5.4
+         114                              Haiti 2004   5422        5.3
+ heat_published heat_729 heat_729_paf cold_published cold_729 cold_729_paf
+        48206.5  52428.7         23.6           55.7     49.8          0.0
+         3192.2   3765.8         25.8            2.2      1.9          0.0
+         2056.5   3595.8         27.3           14.9   -145.0         -1.1
+         2497.8   2934.7          8.3          136.2     57.2          0.2
+         2377.5   3483.2         11.5           71.9     -1.0          0.0
+        11395.8  14374.8         10.4         2825.8    114.9          0.1
+          432.4    511.1         12.6            9.2      7.6          0.2
+            0.4      0.5          2.6            0.1     -0.5         -2.8
+            2.4      3.5          2.4            0.1     -0.5         -0.3
+         7670.0   5165.1         12.9         8005.4  -1012.0         -2.5
+           25.8     25.3          7.1            0.9     -2.4         -0.7
+        33818.5  32463.3         19.6         3677.6    655.1          0.4
+        21621.2  17062.8         12.3         2263.9  -1773.0         -1.3
+            1.1      1.0          1.5            0.0     -0.6         -1.0
+            1.2      0.6          1.8            0.0      0.0         -0.1
+         2786.8   1019.2          1.9        18491.9  -6551.0        -12.3
+         8992.0   5921.8         22.1        11625.6   -318.0         -1.2
+            7.3      2.8          2.7            0.1      0.0          0.0
+           40.9     46.2          2.5            6.6    -38.6         -1.6
+            1.6      0.9          3.0            0.1     -0.2         -0.6
+         1393.0    230.8          3.9         3351.6   -818.0        -13.9
+        39895.9  14527.3         19.6        23944.1  -1111.0         -1.5
+            3.6      0.9          2.0            0.0      0.0          0.0
+            0.7      0.3          0.9            0.2     -0.5         -1.3
+           37.4     35.7          1.6          451.5   -170.7         -7.8
+         1694.7    323.8          3.6         2409.8   -857.0         -9.5
+          227.2    126.4          2.3            5.4   -104.0         -1.9
+
+endpoints other than 1990 and 2023:
+ location_id              location_name   y0   y1
+         142 Iran (Islamic Republic of) 1991 2023
+         147                      Libya 1990 2022
+         153       Syrian Arab Republic 1990 2022
+         155             T<U+00FC>rkiye 1990 2022
+
+adjusted series: country years with non-positive heat rate 96 , cold rate 20 ; published: heat 82 , cold 24 

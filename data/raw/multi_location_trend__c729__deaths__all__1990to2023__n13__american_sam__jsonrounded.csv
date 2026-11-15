@@ -1,0 +1,443 @@
+"location_id","year","location_name","cause_name","cause_id","measure","age_group","rate_male","rate_upper_male","rate_lower_male","count_male","count_upper_male","count_lower_male","percent_male","percent_upper_male","percent_lower_male","rate_female","rate_upper_female","rate_lower_female","count_female","count_upper_female","count_lower_female","percent_female","percent_upper_female","percent_lower_female","rate_combined","rate_upper_combined","rate_lower_combined","count_combined","count_upper_combined","count_lower_combined","percent_combined","percent_upper_combined","percent_lower_combined","rate_age_std_male","rate_age_std_female","rate_age_std_combined"
+298,1990,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1991,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1992,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1993,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1994,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1995,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1996,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1997,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1998,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,1999,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2000,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2001,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2002,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2003,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",8.2,9,7.4,2.46,2.7,2.24,1.3,1.4,1.1,12.2,13.4,11.1,3.54,3.89,3.23,2.6,2.8,2.3,10.2,11.2,9.3,6,6.6,5.46,1.8,2,1.6,13,14.1,13.1
+298,2004,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2005,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2006,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2007,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2008,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2009,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",48,52.8,43.7,14,15.4,12.7,6.9,7.6,6.2,70.5,77.5,64.2,20,22,18.2,12.3,13.5,11.3,59.1,65,53.8,34,37.4,31,9.3,10.2,8.4,80.3,83.3,78.6
+298,2010,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2011,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2012,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2013,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",1.5,1.6,1.3,0.415,0.456,0.378,0.213,0.237,0.19,2.1,2.4,2,0.585,0.643,0.533,0.397,0.442,0.359,1.8,2,1.6,1,1.1,0.91,0.292,0.323,0.26,2.5,2.5,2.4
+298,2014,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2015,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2016,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2017,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2018,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2019,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2020,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2021,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2022,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+298,2023,"American Samoa","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1990,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1991,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1992,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1993,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1994,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1995,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1996,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1997,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1998,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,1999,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2000,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",2.6,2.8,2.3,0.79,0.868,0.719,0.304,0.337,0.274,3.7,4,3.3,1.21,1.33,1.1,0.532,0.588,0.483,3.1,3.4,2.9,2,2.2,1.82,0.41,0.453,0.369,2.9,3.6,3.2
+305,2001,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2002,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2003,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",5.2,5.7,4.7,1.6,1.76,1.46,0.671,0.741,0.608,7.1,7.9,6.5,2.4,2.64,2.18,1.1,1.2,0.959,6.2,6.8,5.6,4,4.4,3.64,0.86,0.952,0.78,5.7,7,6.2
+305,2004,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2005,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2006,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2007,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2008,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2009,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2010,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2011,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2012,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2013,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2014,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2015,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2016,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2017,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2018,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2019,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2020,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2021,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2022,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2023,"Bermuda","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1990,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",4.3,4.7,3.9,0.422,0.463,0.384,0.543,0.595,0.493,6.4,7,5.8,0.578,0.636,0.527,1.2,1.3,1.1,5.3,5.8,4.8,1,1.1,0.91,0.786,0.863,0.717,6.2,7.4,6.7
+320,1991,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1992,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1993,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1994,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1995,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1996,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1997,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",82.7,90.9,75.3,8.11,8.92,7.39,9.8,10.6,8.9,118.2,130,107.6,10.9,12,9.91,18,19.8,16.6,99.9,109.8,90.9,19,20.9,17.3,13.2,14.3,12.2,128,134.6,126.3
+320,1998,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,1999,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2000,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2001,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2002,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2003,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2004,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2005,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2006,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2007,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2008,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2009,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2010,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2011,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2012,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2013,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2014,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2015,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2016,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2017,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2018,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2019,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2020,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2021,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2022,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,2023,"Cook Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1990,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1991,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1992,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1993,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1994,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1995,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1996,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1997,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1998,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,1999,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2000,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2001,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2002,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2003,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",1.3,1.5,1.2,0.401,0.441,0.365,0.137,0.153,0.124,2.3,2.5,2.1,0.599,0.659,0.546,0.271,0.3,0.248,1.8,1.9,1.6,1,1.1,0.91,0.195,0.217,0.178,2.8,2.7,2.4
+349,2004,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2005,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2006,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2007,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2008,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2009,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2010,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2011,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",1.4,1.5,1.3,0.417,0.458,0.38,0.143,0.157,0.129,2.2,2.4,2,0.583,0.641,0.531,0.262,0.289,0.238,1.8,1.9,1.6,1,1.1,0.91,0.195,0.213,0.177,3,2.6,2.3
+349,2012,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2013,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2014,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2015,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2016,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2017,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2018,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2019,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2020,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2021,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2022,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,2023,"Greenland","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1990,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1991,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1992,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0.54,0.594,0.492,0.412,0.453,0.375,0.113,0.125,0.102,0.873,0.96,0.795,0.588,0.647,0.536,0.251,0.276,0.227,0.697,0.766,0.634,1,1.1,0.91,0.167,0.184,0.151,0.818,0.954,0.852
+351,1993,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1994,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1995,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1996,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1997,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1998,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1999,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2000,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2001,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2002,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0.503,0.553,0.458,0.415,0.456,0.378,0.0998,0.11,0.0901,0.736,0.809,0.67,0.585,0.643,0.533,0.211,0.235,0.192,0.617,0.678,0.562,1,1.1,0.91,0.144,0.159,0.131,0.795,0.846,0.787
+351,2003,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2004,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0.503,0.552,0.458,0.417,0.459,0.38,0.097,0.107,0.0879,0.728,0.8,0.662,0.582,0.64,0.53,0.212,0.235,0.193,0.613,0.674,0.558,1,1.1,0.91,0.142,0.157,0.128,0.757,0.887,0.799
+351,2005,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2006,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2007,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2008,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2009,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2010,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2011,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2012,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2013,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2014,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2015,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2016,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2017,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2018,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2019,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2020,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2021,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2022,"Guam","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,2023,"Guam","Exposure to forces of nature",729,"deaths","all_ages",1.1,1.2,0.968,0.849,0.933,0.773,0.119,0.133,0.108,1.5,1.6,1.3,1.15,1.27,1.05,0.237,0.266,0.214,1.3,1.4,1.2,2,2.2,1.82,0.167,0.186,0.152,1.2,1.4,1.3
+367,1990,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1991,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1992,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1993,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1994,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1995,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1996,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1997,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1998,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,1999,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2000,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2001,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2002,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2003,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2004,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2005,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2006,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2007,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2008,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2009,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2010,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2011,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2012,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2013,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2014,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2015,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2016,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2017,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2018,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2019,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2020,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2021,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2022,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,2023,"Monaco","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1990,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1991,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1992,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1993,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1994,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1995,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1996,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1997,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1998,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,1999,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2000,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2001,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2002,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2003,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2004,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2005,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2006,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2007,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2008,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2009,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2010,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2011,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2012,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2013,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2014,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2015,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2016,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2017,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2018,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2019,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2020,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2021,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2022,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,2023,"Nauru","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1990,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1991,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1992,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1993,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1994,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1995,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1996,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1997,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1998,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,1999,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2000,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2001,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2002,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2003,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2004,"Niue","Exposure to forces of nature",729,"deaths","all_ages",48.8,53.7,44.5,0.412,0.452,0.375,4.3,4.7,3.8,68.1,74.9,62,0.588,0.647,0.536,5.5,6,5,58.6,64.4,53.4,1,1.1,0.91,4.9,5.4,4.4,53.6,60,53.6
+374,2005,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2006,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2007,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2008,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2009,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2010,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2011,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2012,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2013,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2014,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2015,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2016,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2017,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2018,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2019,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2020,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2021,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2022,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,2023,"Niue","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1990,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1991,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1992,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1993,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1994,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1995,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1996,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1997,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1998,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,1999,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2000,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2001,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2002,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2003,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2004,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",3.9,4.3,3.5,1.21,1.33,1.11,0.738,0.828,0.671,5.8,6.4,5.3,1.79,1.96,1.63,1.6,1.8,1.5,4.8,5.3,4.4,3,3.3,2.73,1.1,1.2,1,9.3,8.2,8.2
+376,2005,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2006,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2007,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2008,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2009,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2010,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2011,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2012,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2013,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2014,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2015,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2016,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2017,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2018,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",3.3,3.6,3,0.843,0.927,0.768,0.417,0.462,0.375,4.9,5.4,4.5,1.16,1.27,1.05,0.844,0.933,0.762,4.1,4.5,3.7,2,2.2,1.82,0.589,0.646,0.535,6.1,6.8,6.3
+376,2019,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2020,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2021,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2022,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,2023,"Northern Mariana Islands","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1990,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1991,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1992,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1993,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1994,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1995,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1996,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1997,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1998,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1999,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2000,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2001,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2002,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2003,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2004,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2005,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2006,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2007,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2008,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2009,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2010,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2011,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2012,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2013,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2014,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2015,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2016,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2017,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2018,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2019,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2020,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2021,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",2.8,3.1,2.6,3.09,3.4,2.82,0.399,0.449,0.359,4.5,5,4.1,4.91,5.39,4.47,0.743,0.836,0.667,3.7,4.1,3.4,8,8.79,7.28,0.557,0.623,0.502,3.9,5,4.4
+215,2022,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,2023,"Sao Tome and Principe","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1990,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1991,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1992,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1993,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1994,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1995,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1996,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1997,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1998,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,1999,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",1.6,1.7,1.4,75.5,82.9,68.7,0.14,0.156,0.127,2.3,2.5,2.1,112,123,102,0.248,0.276,0.222,1.9,2.1,1.8,187,206,170,0.189,0.21,0.172,1.8,2.3,2.1
+216,2000,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2001,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2002,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.22,0.242,0.2,11.3,12.5,10.3,0.02,0.0219,0.018,0.314,0.346,0.286,16.7,18.3,15.2,0.0354,0.0392,0.0321,0.268,0.294,0.244,28,30.8,25.5,0.0269,0.0296,0.0244,0.25,0.322,0.287
+216,2003,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.0614,0.0675,0.0559,3.25,3.57,2.96,0.00613,0.00675,0.0055,0.0878,0.0965,0.0799,4.75,5.23,4.33,0.0107,0.0119,0.00971,0.0748,0.0822,0.0681,8,8.79,7.28,0.00822,0.00906,0.00744,0.0698,0.09,0.08
+216,2004,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.015,0.0165,0.0137,0.813,0.894,0.74,0.00155,0.0017,0.00139,0.0215,0.0236,0.0195,1.19,1.3,1.08,0.0027,0.00301,0.00245,0.0183,0.0201,0.0166,2,2.2,1.82,0.00207,0.00229,0.00188,0.017,0.022,0.0195
+216,2005,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2006,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2007,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.0562,0.0618,0.0511,3.27,3.59,2.97,0.00654,0.0072,0.00594,0.0803,0.0883,0.0731,4.73,5.2,4.31,0.0115,0.0126,0.0103,0.0683,0.0751,0.0622,8,8.79,7.28,0.00876,0.00963,0.00796,0.0634,0.082,0.0727
+216,2008,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.00686,0.00754,0.00624,0.409,0.449,0.372,0.000827,0.000911,0.000754,0.00981,0.0108,0.00893,0.591,0.65,0.538,0.00145,0.00159,0.00131,0.00834,0.00917,0.0076,1,1.1,0.91,0.00111,0.00121,0.00101,0.00777,0.01,0.0089
+216,2009,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.0402,0.0441,0.0366,2.45,2.7,2.23,0.00497,0.00549,0.00452,0.0575,0.0632,0.0524,3.55,3.9,3.23,0.00866,0.00952,0.00777,0.0489,0.0537,0.0445,6,6.6,5.46,0.00664,0.0073,0.00604,0.0455,0.0589,0.0521
+216,2010,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.013,0.0143,0.0119,0.818,0.899,0.745,0.00169,0.00187,0.00155,0.0187,0.0206,0.017,1.18,1.3,1.08,0.00297,0.00327,0.00267,0.0159,0.0175,0.0145,2,2.2,1.82,0.00227,0.00249,0.00207,0.0148,0.0192,0.017
+216,2011,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2012,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.117,0.129,0.107,7.76,8.54,7.07,0.0163,0.0181,0.0147,0.169,0.186,0.154,11.2,12.4,10.2,0.0286,0.0318,0.0257,0.143,0.158,0.13,19,20.9,17.3,0.0218,0.0243,0.0197,0.134,0.174,0.154
+216,2013,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.0479,0.0526,0.0436,3.26,3.59,2.97,0.00688,0.00764,0.00618,0.0695,0.0764,0.0633,4.73,5.2,4.31,0.0121,0.0134,0.011,0.0587,0.0645,0.0534,8,8.79,7.28,0.00923,0.0102,0.00832,0.0554,0.0718,0.0634
+216,2014,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2015,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2016,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.0271,0.0298,0.0247,2.03,2.24,1.85,0.00418,0.00462,0.00377,0.0399,0.0439,0.0363,2.97,3.26,2.7,0.00731,0.00814,0.00663,0.0335,0.0368,0.0305,5,5.5,4.55,0.0056,0.0062,0.00508,0.0321,0.0417,0.0367
+216,2017,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2018,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2019,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.0292,0.0321,0.0266,2.42,2.67,2.21,0.00475,0.00526,0.00429,0.0438,0.0481,0.0399,3.57,3.93,3.26,0.00829,0.00924,0.00748,0.0364,0.0401,0.0332,6,6.6,5.46,0.00637,0.00705,0.0058,0.0357,0.0463,0.0408
+216,2020,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0.0516,0.0567,0.047,4.43,4.87,4.04,0.00771,0.00856,0.00699,0.078,0.0857,0.071,6.57,7.22,5.98,0.0142,0.0159,0.0128,0.0646,0.0711,0.0589,11,12.1,10,0.0106,0.0118,0.00962,0.0636,0.0827,0.0727
+216,2021,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2022,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,2023,"Senegal","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1990,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1991,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1992,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1993,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1994,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1995,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1996,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.254,0.279,0.231,4.99,5.48,4.54,0.0119,0.0132,0.0109,0.337,0.37,0.307,7.01,7.71,6.39,0.0199,0.0219,0.0181,0.297,0.326,0.27,12,13.2,10.9,0.0156,0.0172,0.0142,0.291,0.342,0.316
+217,1997,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1998,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,1999,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.263,0.289,0.239,5.37,5.9,4.89,0.0119,0.0132,0.0108,0.35,0.385,0.319,7.63,8.39,6.95,0.0205,0.0227,0.0186,0.308,0.339,0.28,13,14.3,11.8,0.0158,0.0175,0.0144,0.302,0.352,0.326
+217,2000,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2001,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2002,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2003,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2004,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.164,0.181,0.15,4.08,4.48,3.71,0.00932,0.0105,0.00849,0.227,0.25,0.207,5.92,6.51,5.39,0.0152,0.0169,0.0137,0.197,0.216,0.179,10,11,9.1,0.0121,0.0134,0.011,0.195,0.224,0.207
+217,2005,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.314,0.345,0.285,8.13,8.94,7.4,0.0184,0.0206,0.0168,0.438,0.481,0.399,11.9,13,10.8,0.0301,0.0334,0.027,0.377,0.415,0.343,20,22,18.2,0.0239,0.0265,0.0217,0.376,0.431,0.398
+217,2006,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2007,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2008,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2009,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",1.4,1.5,1.3,41.3,45.4,37.6,0.0955,0.106,0.0861,2,2.2,1.8,61.7,67.8,56.2,0.158,0.176,0.143,1.7,1.9,1.5,103,113,93.8,0.125,0.139,0.114,1.7,2,1.8
+217,2010,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.208,0.228,0.189,6.41,7.04,5.83,0.0148,0.0164,0.0134,0.3,0.329,0.273,9.59,10.5,8.74,0.0244,0.0274,0.0221,0.255,0.28,0.232,16,17.6,14.6,0.0194,0.0215,0.0176,0.26,0.298,0.274
+217,2011,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.263,0.289,0.239,8.39,9.22,7.64,0.0193,0.0213,0.0174,0.38,0.418,0.346,12.6,13.9,11.5,0.032,0.036,0.0289,0.323,0.355,0.294,21,23.1,19.1,0.0254,0.028,0.0229,0.331,0.381,0.35
+217,2012,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2013,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2014,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2015,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.111,0.122,0.101,3.98,4.38,3.62,0.00888,0.00976,0.00803,0.163,0.179,0.148,6.02,6.62,5.48,0.0151,0.0167,0.0137,0.137,0.151,0.125,10,11,9.1,0.0118,0.013,0.0107,0.144,0.169,0.153
+217,2016,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2017,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",14.5,16.2,13,538,601,481,1.2,1.4,1.1,21.3,23.9,19.1,814,911,728,2.1,2.4,1.9,18,20.1,16.1,1352,1512,1209,1.6,1.8,1.5,18.8,22.4,20.3
+217,2018,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2019,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.073,0.0802,0.0665,2.78,3.05,2.53,0.00652,0.00723,0.00593,0.108,0.119,0.0985,4.22,4.64,3.84,0.0114,0.0126,0.0103,0.0908,0.0998,0.0827,7,7.69,6.37,0.00878,0.00972,0.00801,0.0951,0.115,0.104
+217,2020,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2021,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,2022,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.121,0.133,0.11,4.76,5.23,4.33,0.0113,0.0125,0.0101,0.181,0.199,0.165,7.24,7.96,6.6,0.0198,0.0224,0.0177,0.151,0.166,0.138,12,13.2,10.9,0.0152,0.017,0.0138,0.157,0.197,0.175
+217,2023,"Sierra Leone","Exposure to forces of nature",729,"deaths","all_ages",0.15,0.165,0.136,5.94,6.53,5.41,0.0142,0.016,0.0127,0.224,0.246,0.204,9.06,9.96,8.25,0.0248,0.0276,0.0219,0.187,0.206,0.17,15,16.5,13.7,0.0192,0.0213,0.0173,0.195,0.245,0.217
+218,1990,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1991,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1992,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1993,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1994,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1995,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0.0571,0.0627,0.052,1.18,1.3,1.07,0.00465,0.00518,0.00419,0.0835,0.0918,0.0761,1.82,2,1.66,0.00826,0.00921,0.00748,0.0707,0.0777,0.0643,3,3.3,2.73,0.00632,0.00702,0.00572,0.0749,0.0877,0.0798
+218,1996,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1997,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1998,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,1999,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2000,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2001,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2002,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2003,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2004,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2005,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2006,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2007,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0.549,0.603,0.5,15.9,17.5,14.5,0.0527,0.0582,0.0479,0.83,0.913,0.756,25.1,27.6,22.9,0.0893,0.0988,0.0801,0.693,0.761,0.631,41,45.1,37.3,0.0703,0.0776,0.0639,0.674,0.874,0.77
+218,2008,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0.078,0.0858,0.0711,2.32,2.55,2.11,0.00759,0.00846,0.00688,0.118,0.13,0.108,3.68,4.04,3.35,0.0128,0.0142,0.0116,0.0987,0.108,0.0898,6,6.6,5.46,0.0101,0.0112,0.00918,0.0954,0.125,0.109
+218,2009,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2010,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0.271,0.298,0.246,8.49,9.33,7.73,0.0275,0.0308,0.0247,0.413,0.454,0.376,13.5,14.9,12.3,0.0466,0.0517,0.042,0.343,0.377,0.313,22,24.2,20,0.0367,0.0409,0.0331,0.329,0.434,0.381
+218,2011,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2012,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2013,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2014,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2015,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2016,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2017,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2018,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2019,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2020,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0.105,0.115,0.0956,4.15,4.56,3.78,0.0129,0.0142,0.0116,0.166,0.182,0.151,6.85,7.53,6.24,0.0226,0.025,0.0202,0.136,0.15,0.124,11,12.1,10,0.0176,0.0194,0.0158,0.13,0.176,0.153
+218,2021,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2022,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,2023,"Togo","Exposure to forces of nature",729,"deaths","all_ages",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
